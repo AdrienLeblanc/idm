@@ -5,12 +5,17 @@ import org.eclipse.emf.common.util.URI;
 
 import fr.istic.videoGen.*;
 
+/*
+ * Classe de génération de variante de playlist FFmpeg
+ */
 public class FFmpegGenerator {
 	
-	StringBuilder builder = new StringBuilder();
+	// Résultat de la variante
+	public StringBuilder builder = new StringBuilder();
 
 	public static void main(String[] args) {
-		VideoGeneratorModel videoGen = new VideoGenHelper().loadVideoGenerator(URI.createURI("example1.videogen"));
+		VideoGeneratorModel videoGen = new VideoGenHelper()
+				.loadVideoGenerator(URI.createURI("src/data/data.videogen"));
 		FFmpegGenerator ffmpegGen = new FFmpegGenerator(videoGen);
 		System.out.println(ffmpegGen.builder.toString());
 	}
@@ -26,13 +31,13 @@ public class FFmpegGenerator {
 
 	private void compile(VideoGenInformation information) {
 		if (information.getAuthorName() != null) {
-			builder.append("# author = " + information.getAuthorName() + "\n");
+			builder.append("#author=" + information.getAuthorName() + "\n");
 		}
 		if (information.getVersion() != null) {
-			builder.append("# version = " + information.getVersion() + "\n");
+			builder.append("#version=" + information.getVersion() + "\n");
 		}
 		if (information.getCreationDate() != null) {
-			builder.append("# creation date = " + information.getCreationDate() + "\n");
+			builder.append("#creationDate=" + information.getCreationDate().toString() + "\n");
 		}
 	}
 
@@ -56,7 +61,7 @@ public class FFmpegGenerator {
 	}
 	
 	private void compile(MandatoryMedia mandatory) {
-		builder.append("file '" + mandatory.getDescription().getLocation() + "'");
+		builder.append("file '" + mandatory.getDescription().getLocation() + "'\n");
 	}
 	
 	private void compile(OptionalMedia optional) {
@@ -72,13 +77,12 @@ public class FFmpegGenerator {
 		for (MediaDescription media : alternatives.getMedias()) {
 			if (media instanceof VideoDescription) {
 				VideoDescription video = (VideoDescription) media;
-				int increment = (video.getProbability() == 0) ? video.getProbability() : 1 / alternatives.getMedias().size() * 100;;
+				int increment = (video.getProbability() != 0) ? video.getProbability() : 1 *100 / alternatives.getMedias().size();
 				ponderation += increment;
 				pond[i] = ponderation;
 				i++;
 			}
 		}
-		
 		// Random généré
 		int random = new Random().nextInt(ponderation);
         MediaDescription description = null;
@@ -92,7 +96,7 @@ public class FFmpegGenerator {
 		}
 		
 		// On l'écrit
-        builder.append("file '" + description.getLocation() + "'");
+        builder.append("file '" + description.getLocation() + "'\n");
 	}
 	
 	private void compile(MediaDescription description) {
@@ -112,10 +116,10 @@ public class FFmpegGenerator {
 	private void compile(VideoDescription video) {
 		if (video.getProbability() != 0) {
 			if (video.getProbability() > Math.random() * 100) {
-		        builder.append("file '" + video.getLocation() + "'");
+		        builder.append("file '" + video.getLocation() + "'\n");
 			}
 		} else if (0.5 < Math.random()) {
-		    builder.append("file '" + video.getLocation() + "'");
+		    builder.append("file '" + video.getLocation() + "'\n");
 		}
 	}
 
