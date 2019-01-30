@@ -1,7 +1,6 @@
 import fr.istic.VideoGenStandaloneSetup;
 import fr.istic.videoGen.VideoGeneratorModel;
 import java.util.HashMap;
-import org.eclipse.emf.common.util.EList;
 import org.eclipse.emf.common.util.URI;
 import org.eclipse.emf.ecore.EObject;
 import org.eclipse.emf.ecore.resource.Resource;
@@ -14,10 +13,8 @@ public class VideoGenHelper {
     VideoGeneratorModel _xblockexpression = null;
     {
       VideoGenStandaloneSetup.doSetup();
-      ResourceSetImpl _resourceSetImpl = new ResourceSetImpl();
-      Resource res = _resourceSetImpl.getResource(uri, true);
-      EList<EObject> _contents = res.getContents();
-      EObject _get = _contents.get(0);
+      Resource res = new ResourceSetImpl().getResource(uri, true);
+      EObject _get = res.getContents().get(0);
       _xblockexpression = ((VideoGeneratorModel) _get);
     }
     return _xblockexpression;
@@ -25,10 +22,8 @@ public class VideoGenHelper {
   
   public void saveVideoGenerator(final URI uri, final VideoGeneratorModel videoGen) {
     try {
-      ResourceSetImpl _resourceSetImpl = new ResourceSetImpl();
-      Resource rs = _resourceSetImpl.createResource(uri);
-      EList<EObject> _contents = rs.getContents();
-      _contents.add(videoGen);
+      Resource rs = new ResourceSetImpl().createResource(uri);
+      rs.getContents().add(videoGen);
       HashMap<Object, Object> _hashMap = new HashMap<Object, Object>();
       rs.save(_hashMap);
     } catch (Throwable _e) {
