@@ -3,7 +3,21 @@
  */
 package fr.istic.generator;
 
+import fr.istic.videoGen.AlternativesMedia;
+import fr.istic.videoGen.ImageDescription;
+import fr.istic.videoGen.MandatoryMedia;
+import fr.istic.videoGen.Media;
+import fr.istic.videoGen.MediaDescription;
+import fr.istic.videoGen.OptionalMedia;
+import fr.istic.videoGen.VideoDescription;
+import fr.istic.videoGen.VideoGenInformation;
+import fr.istic.videoGen.VideoGeneratorModel;
+import java.util.Random;
+import org.eclipse.emf.common.util.EList;
+import org.eclipse.emf.common.util.URI;
+import org.eclipse.emf.ecore.EObject;
 import org.eclipse.emf.ecore.resource.Resource;
+import org.eclipse.xtend2.lib.StringConcatenation;
 import org.eclipse.xtext.generator.AbstractGenerator;
 import org.eclipse.xtext.generator.IFileSystemAccess2;
 import org.eclipse.xtext.generator.IGeneratorContext;
@@ -17,9 +31,208 @@ import org.eclipse.xtext.generator.IGeneratorContext;
 public class VideoGenGenerator extends AbstractGenerator {
   @Override
   public void doGenerate(final Resource resource, final IFileSystemAccess2 fsa, final IGeneratorContext context) {
-    throw new Error("Unresolved compilation problems:"
-      + "\nThe method or field Iterator is undefined"
-      + "\nThe method ot(String) is undefined"
-      + "\nThe method or field VideoGen is undefined");
+    EList<EObject> _contents = resource.getContents();
+    for (final EObject e : _contents) {
+      if ((e instanceof VideoGeneratorModel)) {
+        URI _uRI = resource.getURI();
+        String _plus = (_uRI + ".ffmpeg");
+        fsa.generateFile(_plus, this.compile(((VideoGeneratorModel)e)));
+      }
+    }
+  }
+  
+  public CharSequence compile(final VideoGeneratorModel m) {
+    StringConcatenation _builder = new StringConcatenation();
+    {
+      VideoGenInformation _information = m.getInformation();
+      boolean _tripleNotEquals = (_information != null);
+      if (_tripleNotEquals) {
+        CharSequence _compile = this.compile(m.getInformation());
+        _builder.append(_compile);
+        _builder.newLineIfNotEmpty();
+      }
+    }
+    {
+      EList<Media> _medias = m.getMedias();
+      boolean _tripleNotEquals_1 = (_medias != null);
+      if (_tripleNotEquals_1) {
+        CharSequence _compile_1 = this.compile(m.getMedias());
+        _builder.append(_compile_1);
+        _builder.newLineIfNotEmpty();
+      }
+    }
+    return _builder;
+  }
+  
+  public CharSequence compile(final VideoGenInformation info) {
+    StringConcatenation _builder = new StringConcatenation();
+    {
+      String _authorName = info.getAuthorName();
+      boolean _tripleNotEquals = (_authorName != null);
+      if (_tripleNotEquals) {
+        _builder.append("# author ");
+        String _authorName_1 = info.getAuthorName();
+        _builder.append(_authorName_1);
+        _builder.newLineIfNotEmpty();
+      }
+    }
+    {
+      String _version = info.getVersion();
+      boolean _tripleNotEquals_1 = (_version != null);
+      if (_tripleNotEquals_1) {
+        _builder.append("# version ");
+        String _version_1 = info.getVersion();
+        _builder.append(_version_1);
+        _builder.newLineIfNotEmpty();
+      }
+    }
+    {
+      String _creationDate = info.getCreationDate();
+      boolean _tripleNotEquals_2 = (_creationDate != null);
+      if (_tripleNotEquals_2) {
+        _builder.append("# creationDate ");
+        String _creationDate_1 = info.getCreationDate();
+        _builder.append(_creationDate_1);
+        _builder.newLineIfNotEmpty();
+      }
+    }
+    return _builder;
+  }
+  
+  public CharSequence compile(final EList<Media> medias) {
+    StringConcatenation _builder = new StringConcatenation();
+    {
+      for(final Media media : medias) {
+        CharSequence _compile = this.compile(media);
+        _builder.append(_compile);
+        _builder.newLineIfNotEmpty();
+      }
+    }
+    return _builder;
+  }
+  
+  public CharSequence compile(final Media media) {
+    StringConcatenation _builder = new StringConcatenation();
+    {
+      if ((media instanceof MandatoryMedia)) {
+        CharSequence _compile = this.compile(((MandatoryMedia)media));
+        _builder.append(_compile);
+        _builder.newLineIfNotEmpty();
+      }
+    }
+    {
+      if ((media instanceof OptionalMedia)) {
+        CharSequence _compile_1 = this.compile(((OptionalMedia)media));
+        _builder.append(_compile_1);
+        _builder.newLineIfNotEmpty();
+      }
+    }
+    {
+      if ((media instanceof AlternativesMedia)) {
+        CharSequence _compile_2 = this.compile(((AlternativesMedia)media));
+        _builder.append(_compile_2);
+        _builder.newLineIfNotEmpty();
+      }
+    }
+    return _builder;
+  }
+  
+  public CharSequence compile(final MandatoryMedia mandatory) {
+    StringConcatenation _builder = new StringConcatenation();
+    _builder.append("file \'");
+    String _location = mandatory.getDescription().getLocation();
+    _builder.append(_location);
+    _builder.append("\'");
+    _builder.newLineIfNotEmpty();
+    return _builder;
+  }
+  
+  public CharSequence compile(final OptionalMedia optional) {
+    StringConcatenation _builder = new StringConcatenation();
+    CharSequence _compile = this.compile(optional.getDescription());
+    _builder.append(_compile);
+    _builder.newLineIfNotEmpty();
+    return _builder;
+  }
+  
+  public CharSequence compile(final AlternativesMedia alternatives) {
+    StringConcatenation _builder = new StringConcatenation();
+    int length = alternatives.getMedias().size();
+    _builder.newLineIfNotEmpty();
+    _builder.append("        ");
+    Random rn = new Random();
+    _builder.newLineIfNotEmpty();
+    int index = rn.nextInt(length);
+    _builder.newLineIfNotEmpty();
+    _builder.append("        ");
+    MediaDescription choosen = alternatives.getMedias().get(index);
+    _builder.newLineIfNotEmpty();
+    _builder.append("file \'");
+    String _location = choosen.getLocation();
+    _builder.append(_location);
+    _builder.append("\'");
+    _builder.newLineIfNotEmpty();
+    return _builder;
+  }
+  
+  public CharSequence compile(final MediaDescription description) {
+    StringConcatenation _builder = new StringConcatenation();
+    {
+      if ((description instanceof ImageDescription)) {
+        CharSequence _compile = this.compile(((ImageDescription)description));
+        _builder.append(_compile);
+        _builder.newLineIfNotEmpty();
+      }
+    }
+    {
+      if ((description instanceof VideoDescription)) {
+        CharSequence _compile_1 = this.compile(((VideoDescription)description));
+        _builder.append(_compile_1);
+        _builder.newLineIfNotEmpty();
+      }
+    }
+    return _builder;
+  }
+  
+  public CharSequence compile(final ImageDescription image) {
+    StringConcatenation _builder = new StringConcatenation();
+    _builder.append("\t\t");
+    _builder.newLine();
+    return _builder;
+  }
+  
+  public CharSequence compile(final VideoDescription video) {
+    StringConcatenation _builder = new StringConcatenation();
+    {
+      int _probability = video.getProbability();
+      boolean _notEquals = (_probability != 0);
+      if (_notEquals) {
+        {
+          int _probability_1 = video.getProbability();
+          double _random = Math.random();
+          boolean _lessThan = (_probability_1 < _random);
+          if (_lessThan) {
+            _builder.append("file \'");
+            String _location = video.getLocation();
+            _builder.append(_location);
+            _builder.append("\'");
+            _builder.newLineIfNotEmpty();
+          }
+        }
+      } else {
+        {
+          double _random_1 = Math.random();
+          boolean _lessThan_1 = (0.5 < _random_1);
+          if (_lessThan_1) {
+            _builder.append("file \'");
+            String _location_1 = video.getLocation();
+            _builder.append(_location_1);
+            _builder.append("\'");
+            _builder.newLineIfNotEmpty();
+          }
+        }
+      }
+    }
+    return _builder;
   }
 }

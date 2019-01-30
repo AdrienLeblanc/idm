@@ -44,7 +44,7 @@ VideoDescription:
 	 ('text' text=VideoText)? // incrust a text into a video
 	RIGHT_BRACKET)?
 ;
-// lol
+
 VideoText :
 	LEFT_BRACKET
 	'content' content=STRING

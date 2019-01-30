@@ -7,6 +7,19 @@ import org.eclipse.emf.ecore.resource.Resource
 import org.eclipse.xtext.generator.AbstractGenerator
 import org.eclipse.xtext.generator.IFileSystemAccess2
 import org.eclipse.xtext.generator.IGeneratorContext
+import java.util.Iterator
+import fr.istic.videoGen.VideoGeneratorModel
+import fr.istic.videoGen.VideoGenInformation
+import org.eclipse.emf.ecore.EObject
+import org.eclipse.emf.common.util.EList
+import fr.istic.videoGen.Media
+import fr.istic.videoGen.MandatoryMedia
+import fr.istic.videoGen.OptionalMedia
+import fr.istic.videoGen.AlternativesMedia
+import fr.istic.videoGen.MediaDescription
+import fr.istic.videoGen.ImageDescription
+import fr.istic.videoGen.VideoDescription
+import java.util.Random
 
 /**
  * Generates code from your model files on save.
@@ -16,13 +29,91 @@ import org.eclipse.xtext.generator.IGeneratorContext
 class VideoGenGenerator extends AbstractGenerator {
 
 	override void doGenerate(Resource resource, IFileSystemAccess2 fsa, IGeneratorContext context) {
-//		fsa.generateFile('greetings.txt', 'People to greet: ' + 
-//			resource.allContents
-//				.filter(Greeting)
-//				.map[name]
-//				.join(', '))
-		Iterator ot = resource.allContents.filter(VideoGen).map["Media"].join(';')
-		var command = "vlc"
-		var p = Runtime.runtime.exec(command);
+		for (EObject e :resource.getContents()) {
+			if (e instanceof VideoGeneratorModel) {
+				fsa.generateFile(resource.getURI() + ".ffmpeg",  e.compile());
+			}
+		}
 	}
+	
+	def compile(VideoGeneratorModel m) '''
+		«IF m.getInformation() !== null»
+			«m.getInformation().compile()»
+		«ENDIF»
+		«IF m.getMedias() !== null»
+			«m.getMedias().compile()»
+		«ENDIF»
+	'''
+	
+	def compile(VideoGenInformation info) '''
+		«IF info.authorName !== null»
+			# author « info.authorName »
+		«ENDIF»
+		«IF info.version !== null»
+			# version « info.version »
+		«ENDIF»
+		«IF info.creationDate !== null»
+			# creationDate « info.creationDate »
+		«ENDIF»
+	'''
+	
+	def compile(EList<Media> medias) '''
+		«FOR media : medias»
+            «media.compile»
+        «ENDFOR»
+	'''
+	
+	def compile(Media media) '''
+		«IF media instanceof MandatoryMedia»
+			«media.compile()»
+		«ENDIF»
+		«IF media instanceof OptionalMedia»
+			«media.compile()»
+		«ENDIF»
+		«IF media instanceof AlternativesMedia»
+			«media.compile()»
+		«ENDIF»
+	'''
+	
+	def compile(MandatoryMedia mandatory) '''
+		file '«mandatory.getDescription().getLocation()»'
+	'''
+	
+	def compile(OptionalMedia optional) '''
+		«optional.description.compile()»
+	'''
+	
+	def compile(AlternativesMedia alternatives) '''
+		«var length =  alternatives.getMedias().size()»
+        «var rn = new Random()»
+		«var index = rn.nextInt(length)»
+        «var choosen = alternatives.getMedias().get(index)»
+		file '«choosen.getLocation()»'
+	'''
+	
+	def compile(MediaDescription description) '''
+		«IF description instanceof ImageDescription»
+			«description.compile()»
+		«ENDIF»
+		«IF description instanceof VideoDescription»
+			«description.compile()»
+		«ENDIF»
+	'''
+	
+	def compile(ImageDescription image) '''
+		«»
+	'''
+	
+	def compile(VideoDescription video) '''
+		«IF video.probability != 0»
+			«IF video.probability < Math.random()»
+				file '«video.location»'
+			«ENDIF»
+		«ELSE»
+			«IF 0.5 < Math.random()»
+				file '«video.location»'
+			«ENDIF»
+		«ENDIF»
+	'''
+	
 }
