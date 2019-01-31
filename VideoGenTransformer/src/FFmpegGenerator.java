@@ -12,15 +12,21 @@ import fr.istic.videoGen.*;
  * 
  */
 public class FFmpegGenerator {
-	
-	// Résultat de la variante
+
 	public StringBuilder builder = new StringBuilder();
 
 	public static void main(String[] args) {
+		String input = "src/data/data.videogen";
+		String output = "data.txt";
+
 		VideoGeneratorModel videoGen = new VideoGenHelper()
-				.loadVideoGenerator(URI.createURI("src/data/data.videogen"));
+				.loadVideoGenerator(URI.createURI(input));
 		FFmpegGenerator ffmpegGen = new FFmpegGenerator(videoGen);
-		System.out.println(ffmpegGen.builder.toString());
+		Utils.createFile(output, ffmpegGen.toString());
+	}
+	
+	public String toString() {
+		return builder.toString();
 	}
 	
 	public FFmpegGenerator(VideoGeneratorModel videoGen) {
@@ -76,7 +82,6 @@ public class FFmpegGenerator {
 		int pond[] = new int[alternatives.getMedias().size()];
 		int i = 0;
 		
-		// On initialise le tableau de pondérations
 		for (MediaDescription media : alternatives.getMedias()) {
 			if (media instanceof VideoDescription) {
 				VideoDescription video = (VideoDescription) media;
@@ -86,19 +91,17 @@ public class FFmpegGenerator {
 				i++;
 			}
 		}
-		// Random généré
+		
+		// Random generated
 		int random = new Random().nextInt(ponderation);
         MediaDescription description = null;
         
-        // On regarde qui est l'heureux élu
 		for (int j = 0; j < pond.length; j++) {
 			if (pond[j] > random) {
 				description = alternatives.getMedias().get(j);
 				break;
 			}
 		}
-		
-		// On l'écrit
         builder.append("file '" + description.getLocation() + "'\n");
 	}
 	

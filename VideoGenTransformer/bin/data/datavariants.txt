@@ -1,0 +1,7 @@
+Variante1	= v1/v2/v31/
+Variante2	= v1/v2/v32/
+Variante3	= v1/v2/v33/
+Variante4	= v1/v31/
+Variante5	= v1/v32/
+Variante6	= v1/v33/
+

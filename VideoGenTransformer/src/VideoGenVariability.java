@@ -14,23 +14,29 @@ import fr.istic.videoGen.*;
  */
 public class VideoGenVariability {
 
-	ArrayList<ArrayList<MediaDescription>> variants = new ArrayList<ArrayList<MediaDescription>>();
+	public ArrayList<ArrayList<MediaDescription>> variants = new ArrayList<ArrayList<MediaDescription>>();
 
 	public static void main(String[] args) {
+
+		String input = "src/data/data.videogen";
+		String output = "src/data/datavariants.videogen";
+		
 		VideoGeneratorModel videoGen = new VideoGenHelper()
-				.loadVideoGenerator(URI.createURI("src/test/test_4_mandOptAlt.videogen"));
+				.loadVideoGenerator(URI.createURI(input));
 		VideoGenVariability variability = new VideoGenVariability(videoGen);
-		System.out.println(variability.toString());
+		Utils.createFile(output, variability.toString());
 	}
 	
-	@Override
 	public String toString() {
 		String output = "";
+		int i = 1;
 		for (ArrayList<MediaDescription> variant : variants) {
+			output += "Variante" + i + "\t= ";
 			for (MediaDescription media : variant) {
 				output += getIdFromMediaDescription(media) + File.separatorChar;
 			}
 			output += "\n";
+			i++;
 		}
 		return output;
 	}
