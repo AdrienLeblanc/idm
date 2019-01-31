@@ -5,8 +5,11 @@ import org.eclipse.emf.common.util.URI;
 
 import fr.istic.videoGen.*;
 
-/*
+/**
  * Classe de génération de variante de playlist FFmpeg
+ * 
+ * @author Adrien
+ * 
  */
 public class FFmpegGenerator {
 	
