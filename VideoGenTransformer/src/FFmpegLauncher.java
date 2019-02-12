@@ -14,33 +14,34 @@ import fr.istic.videoGen.VideoGeneratorModel;
 public class FFmpegLauncher {
 	
 	public static void main(String[] args) {
-		
-		FFmpegLauncher launcher = new FFmpegLauncher();
-		//launcher.readPlayList("data.flv");
-		launcher.generateAndReadPlayList();
+		//generatePlayListGif("data");
+		generateAndReadPlayListVideo("spec");
 	}
 
-	public FFmpegLauncher() {
+	public static String generatePlayListGif(String filename) {
+		Utils.exec("ffmpeg -y -ss 24 -t 1 -i playlists/" + filename + "_playlist.mp4 -f gif gifs/" + filename + "_playlist.gif");
+		return "gifs/" + filename + "_playlist.gif";
+	}
+
+	public static String generatePlayListVideo(String filename) {
+		Utils.exec("ffmpeg -y -f concat -safe 0 -i " + filename + ".txt -c copy playlists/" + filename + "_playlist.mp4");
+		return "playlists/" + filename + "_playlist.mp4";
 	}
 	
-	public void readPlayList(String playListName) {
-		String random = UUID.randomUUID().toString();
-		Utils.exec("ffmpeg -f concat -safe 0 -i " + playListName + " -c copy src/playlists/" + random + ".mp4");
-		Utils.exec("vlc src/playlists/" + random + ".mp4");
-	}
-	
-	public void generateAndReadPlayList() {
-		String input = "src/data/data.videogen";
-		String output = "data.txt";
+	public static void generateAndReadPlayListVideo(String filename) {
 
 		VideoGeneratorModel videoGen = new VideoGenHelper()
-				.loadVideoGenerator(URI.createURI(input));
+				.loadVideoGenerator(URI.createURI("data/" + filename + ".videogen"));
 		FFmpegGenerator ffmpegGen = new FFmpegGenerator(videoGen);
-		Utils.createFile(output, ffmpegGen.toString());
-		
-		String random = UUID.randomUUID().toString();
-		Utils.exec("ffmpeg -f concat -safe 0 -i data.flv -c copy src/playlists/" + random + ".mp4");
-		Utils.exec("vlc src/playlists/" + random + ".mp4");
+		int duration = ffmpegGen.getTotalDuration();
+		String durationCmd = "";
+		if (duration != 0) {
+			durationCmd = "-t " + duration;
+		}
+		Utils.createFile(filename + ".txt", ffmpegGen.toString());
+		Utils.exec("ffmpeg -y -f concat -i " + filename + ".txt -c copy playlists/" + filename + "_playlist.mp4");
+		System.out.println("ffmpeg -ss 0 -i playlists/" + filename + "_playlist.mp4 -c copy " + durationCmd + " playlists/" + filename + "_playlist.mp4");
+		Utils.exec("ffmpeg -ss 0 -i playlists/" + filename + "_playlist.mp4 -c copy " + durationCmd + " playlists/" + filename + "_playlist.mp4");
+		Utils.exec("vlc playlists/" + filename + "_playlist.mp4");
 	}
-	
 }

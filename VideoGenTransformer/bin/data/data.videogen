@@ -2,12 +2,13 @@
 @version "1.0"
 @creation "30/01/2019"
 VideoGen {
-	mandatory videoseq v1 "/home/adrien/workspace/idm/teaching-MDE-IL1819/VideoGenTransformer/src/videos/okey.mp4"
-	optional videoseq v2 "/home/adrien/workspace/idm/teaching-MDE-IL1819/VideoGenTransformer/src/videos/waw.mp4"
+	mandatory videoseq v1 "videos/bomb2.mp4"
+	mandatory videoseq v1 "videos/waw.mp4"
+	optional videoseq v2 "videos/dejavu.mp4" {probability = 80}
 	alternatives v3 {
-		videoseq v31 "/home/adrien/workspace/idm/teaching-MDE-IL1819/VideoGenTransformer/src/videos/okey.mp4"
-		videoseq v32 "/home/adrien/workspace/idm/teaching-MDE-IL1819/VideoGenTransformer/src/videos/waw.mp4"
-		videoseq v33 "/home/adrien/workspace/idm/teaching-MDE-IL1819/VideoGenTransformer/src/videos/dejavu.mp4"
+		videoseq v31 "videos/bomb2.mp4"
+		videoseq v32 "videos/waw.mp4"
+		videoseq v33 "videos/dejavu.mp4"
 	}
 }
 

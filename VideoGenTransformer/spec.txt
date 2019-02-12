@@ -1,0 +1,8 @@
+#author=Adrien et Damien
+#version=1.0
+#creationDate=10/02/2019
+file 'videos/count.mp4'
+file 'videos/profanity.mp4'
+file 'videos/golf.mp4'
+file 'videos/uhhh.mp4'
+

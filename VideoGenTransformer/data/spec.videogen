@@ -1,0 +1,15 @@
+@author "Adrien et Damien"
+@version "1.0"
+@creation "10/02/2019"
+VideoGen {
+	mandatory videoseq v01 "videos/count.mp4" {duration = 1}
+	optional videoseq v02 "videos/profanity.mp4" {duration=1 probability=80}
+	alternatives v3 {
+		videoseq v31 "videos/alien.mp4" {duration=1 probability=15}
+		videoseq v32 "videos/golf.mp4" {duration=1 probability=85}
+	}
+	optional videoseq v043 "videos/music.mp4" {duration=1 probability=66}
+	mandatory videoseq v09 "videos/uhhh.mp4" {duration=1}
+	optional videoseq v09 "videos/plankton.mp4" {duration=1}
+	optional videoseq v09 "videos/ricardo.mp4" {duration=1 probability=1}
+}

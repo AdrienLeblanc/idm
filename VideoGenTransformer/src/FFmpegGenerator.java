@@ -1,3 +1,4 @@
+import java.util.LinkedList;
 import java.util.Random;
 
 import org.eclipse.emf.common.util.EList;
@@ -14,9 +15,10 @@ import fr.istic.videoGen.*;
 public class FFmpegGenerator {
 
 	public StringBuilder builder = new StringBuilder();
+	public LinkedList<String> durations = new LinkedList<String>();
 
 	public static void main(String[] args) {
-		String input = "src/data/data.videogen";
+		String input = "data/data.videogen";
 		String output = "data.txt";
 
 		VideoGeneratorModel videoGen = new VideoGenHelper()
@@ -71,6 +73,12 @@ public class FFmpegGenerator {
 	
 	private void compile(MandatoryMedia mandatory) {
 		builder.append("file '" + mandatory.getDescription().getLocation() + "'\n");
+		if (mandatory.getDescription() instanceof VideoDescription) {
+			VideoDescription video = (VideoDescription) mandatory.getDescription();
+			if (video.getDuration() != 0) {
+				durations.add(String.valueOf(video.getDuration()));
+			}
+		}
 	}
 	
 	private void compile(OptionalMedia optional) {
@@ -103,6 +111,12 @@ public class FFmpegGenerator {
 			}
 		}
         builder.append("file '" + description.getLocation() + "'\n");
+        if (description instanceof VideoDescription) {
+			VideoDescription video = (VideoDescription) description;
+			if (video.getDuration() != 0) {
+				durations.add(String.valueOf(video.getDuration()));
+			}
+		}
 	}
 	
 	private void compile(MediaDescription description) {
@@ -123,10 +137,23 @@ public class FFmpegGenerator {
 		if (video.getProbability() != 0) {
 			if (video.getProbability() > Math.random() * 100) {
 		        builder.append("file '" + video.getLocation() + "'\n");
+		        if (video.getDuration() != 0) {
+					durations.add(String.valueOf(video.getDuration()));
+				}
 			}
 		} else if (0.5 < Math.random()) {
 		    builder.append("file '" + video.getLocation() + "'\n");
+		    if (video.getDuration() != 0) {
+				durations.add(String.valueOf(video.getDuration()));
+			}
 		}
 	}
-
+	
+	public int getTotalDuration() {
+		int res = 0;
+		for (String duration : durations) {
+			res += Integer.parseInt(duration);
+		}
+		return res;
+	}
 }
