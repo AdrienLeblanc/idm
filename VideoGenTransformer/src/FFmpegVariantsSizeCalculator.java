@@ -6,6 +6,12 @@ import org.eclipse.emf.common.util.URI;
 import fr.istic.videoGen.MediaDescription;
 import fr.istic.videoGen.VideoGeneratorModel;
 
+/**
+ * Classe non testée
+ * 
+ * @author adrien
+ *
+ */
 public class FFmpegVariantsSizeCalculator {
 	
 	ArrayList<ArrayList<MediaDescription>> variants;

@@ -1,15 +1,24 @@
+
 import org.eclipse.emf.common.util.URI;
+
 import org.junit.Assert;
 import org.junit.Test;
 import fr.istic.videoGen.VideoGeneratorModel;
 
+/**
+ * Classe de test vérifiant le bon fonctionnement des mots clefs
+ *  MANDATORY, OPTIONAL et ALTERNATIVES
+ * 
+ * @author adrien
+ *
+ */
 public class FFmpegGeneratorTest {
 
 	@Test
 	public void readAndGenerateOneMandatory() {
 		// We check that the mandatory is generated
 		VideoGeneratorModel videoGen = new VideoGenHelper()
-				.loadVideoGenerator(URI.createURI("src/test/test_1_mandatory.videogen"));
+				.loadVideoGenerator(URI.createURI("test/test_1_mandatory.videogen"));
 		FFmpegGenerator ffmpegGen = new FFmpegGenerator(videoGen);
 		Assert.assertTrue(ffmpegGen.builder.toString().contains("V1/v1.mp4"));
 	}
@@ -17,7 +26,7 @@ public class FFmpegGeneratorTest {
 	@Test
 	public void readAndGenerateOneOptional() {
 		VideoGeneratorModel videoGen = new VideoGenHelper()
-				.loadVideoGenerator(URI.createURI("src/test/test_2_optional.videogen"));
+				.loadVideoGenerator(URI.createURI("test/test_2_optional.videogen"));
 		FFmpegGenerator ffmpegGen = new FFmpegGenerator(videoGen);
 		// Check if a line as   file '...'   has been generated (50%)
 		int occurrences = ffmpegGen.builder.toString().split("file", -1).length - 1;
@@ -32,7 +41,7 @@ public class FFmpegGeneratorTest {
 	@Test
 	public void readAndGenerateOneAlternative() {
 		VideoGeneratorModel videoGen = new VideoGenHelper()
-				.loadVideoGenerator(URI.createURI("src/test/test_3_alternatives.videogen"));
+				.loadVideoGenerator(URI.createURI("test/test_3_alternatives.videogen"));
 		FFmpegGenerator ffmpegGen = new FFmpegGenerator(videoGen);
 
 		// Check if a line as   file '...'   has been generated (100%)
@@ -52,7 +61,7 @@ public class FFmpegGeneratorTest {
 	@Test
 	public void readAndGenerateMandOptAlt() {
 		VideoGeneratorModel videoGen = new VideoGenHelper()
-				.loadVideoGenerator(URI.createURI("src/test/test_4_mandOptAlt.videogen"));
+				.loadVideoGenerator(URI.createURI("test/test_4_mandOptAlt.videogen"));
 		FFmpegGenerator ffmpegGen = new FFmpegGenerator(videoGen);
 
 		// Mandatory check
@@ -78,7 +87,7 @@ public class FFmpegGeneratorTest {
 	public void readAndGenerateOneOptional100probability() {
 		// We put 100% probability to simulate a mandatory generation
 		VideoGeneratorModel videoGen = new VideoGenHelper()
-				.loadVideoGenerator(URI.createURI("src/test/test_5_optional100probability.videogen"));
+				.loadVideoGenerator(URI.createURI("test/test_5_optional100probability.videogen"));
 		FFmpegGenerator ffmpegGen = new FFmpegGenerator(videoGen);
 		Assert.assertTrue(ffmpegGen.builder.toString().contains("V2/v2.mp4"));
 	}

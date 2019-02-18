@@ -17,12 +17,16 @@ public class Utils {
 	}
 
 	public static String exec(String command) {
+		StringBuilder builder = new StringBuilder();
 		try {
 			Process process = Runtime.getRuntime().exec(command);
 			process.waitFor();
+			
+			
 		} catch (IOException | InterruptedException e) {
 			System.out.println(e.getMessage());
 		}
-		return null;
+
+		return builder.toString();
 	}
 }

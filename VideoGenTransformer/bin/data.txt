@@ -1,0 +1,8 @@
+#author=Adrien et Damien
+#version=1.0
+#creationDate=30/01/2019
+file 'videos/bomb2.mp4'
+file 'videos/waw.mp4'
+file 'videos/dejavu.mp4'
+file 'videos/bomb2.mp4'
+

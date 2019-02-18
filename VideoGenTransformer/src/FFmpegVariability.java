@@ -1,5 +1,9 @@
 import java.io.File;
 import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Collectors;
+import java.util.stream.Stream;
+
 import org.eclipse.emf.common.util.EList;
 import org.eclipse.emf.common.util.URI;
 
@@ -45,6 +49,14 @@ public class FFmpegVariability {
 		if (videoGen.getMedias() != null) {
 			variability(videoGen.getMedias(), variants);
 		}
+		clearEmptyVariants();
+	}
+
+	private void clearEmptyVariants() {
+		Stream<ArrayList<MediaDescription>> stream = variants.stream();
+		List<ArrayList<MediaDescription>> tmp = stream.filter(v -> !v.isEmpty()).collect(Collectors.toList());
+		variants.clear();
+		variants.addAll(tmp);
 	}
 
 	private void variability(EList<Media> medias, ArrayList<ArrayList<MediaDescription>> variants) {
@@ -77,6 +89,7 @@ public class FFmpegVariability {
 				ArrayList<MediaDescription> variant = new ArrayList<MediaDescription>();
 				variant.add(optional.getDescription());
 				variants.add(variant);
+				variants.add(new ArrayList<MediaDescription>());
 			}
 		} else if (media instanceof AlternativesMedia) {
 			AlternativesMedia alternatives = (AlternativesMedia) media;
