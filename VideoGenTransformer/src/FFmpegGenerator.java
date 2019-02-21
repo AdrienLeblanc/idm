@@ -125,7 +125,7 @@ public class FFmpegGenerator {
 	}
 	
 	private void compile(ImageDescription image) {
-		
+		// Not supported
 	}
 	
 	private void compile(VideoDescription video) {

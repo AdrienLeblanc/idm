@@ -28,23 +28,30 @@ public class Utils {
 	 * @param command to execute
 	 * @return result as a string
 	 */
-	public static String exec(String command) {
-		StringBuilder builder = new StringBuilder();
+	public static Log exec(String command) {
+		StringBuilder standard = new StringBuilder();
+		StringBuilder error = new StringBuilder();
 		try {
 			Runtime rt = Runtime.getRuntime();
 			Process proc = rt.exec(command);
 
 			BufferedReader stdInput = new BufferedReader(new 
-			     InputStreamReader(proc.getInputStream()));
+					InputStreamReader(proc.getInputStream()));
+
+		    BufferedReader stdError = new BufferedReader(new 
+		    		InputStreamReader(proc.getErrorStream()));
 
 			String s = null;
 			while ((s = stdInput.readLine()) != null) {
-			    builder.append(s);
+				standard.append(s + "\n");
+			}
+			while ((s = stdError.readLine()) != null) {
+				System.out.println(s + "\n");
 			}
 		} catch (IOException e) {
 			System.out.println(e.getMessage());
 		}
 
-		return builder.toString();
+		return new Log(standard.toString(), error.toString());
 	}
 }

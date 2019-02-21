@@ -1,0 +1,1795 @@
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832943, current: 484050; changing to 832944. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832944, current: 484562; changing to 832945. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832945, current: 485074; changing to 832946. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832946, current: 485586; changing to 832947. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832947, current: 486098; changing to 832948. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832948, current: 486610; changing to 832949. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832949, current: 487122; changing to 832950. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832950, current: 487634; changing to 832951. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832951, current: 488146; changing to 832952. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832952, current: 488658; changing to 832953. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832953, current: 489170; changing to 832954. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832954, current: 489682; changing to 832955. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832955, current: 490194; changing to 832956. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832956, current: 490706; changing to 832957. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832957, current: 491218; changing to 832958. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832958, current: 491730; changing to 832959. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832959, current: 492242; changing to 832960. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832960, current: 492754; changing to 832961. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832961, current: 493266; changing to 832962. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832962, current: 493778; changing to 832963. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832963, current: 494290; changing to 832964. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832964, current: 494802; changing to 832965. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832965, current: 495314; changing to 832966. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832966, current: 495826; changing to 832967. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832967, current: 496338; changing to 832968. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832968, current: 496850; changing to 832969. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832969, current: 497362; changing to 832970. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832970, current: 497874; changing to 832971. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832971, current: 498386; changing to 832972. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832972, current: 498898; changing to 832973. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832973, current: 499410; changing to 832974. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832974, current: 499922; changing to 832975. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832975, current: 500434; changing to 832976. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832976, current: 500946; changing to 832977. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832977, current: 501458; changing to 832978. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832978, current: 501970; changing to 832979. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832979, current: 502482; changing to 832980. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832980, current: 502994; changing to 832981. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832981, current: 503506; changing to 832982. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832982, current: 504018; changing to 832983. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832983, current: 504530; changing to 832984. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832984, current: 505042; changing to 832985. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832985, current: 505554; changing to 832986. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832986, current: 506066; changing to 832987. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832987, current: 506578; changing to 832988. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832988, current: 507090; changing to 832989. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832989, current: 507602; changing to 832990. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832990, current: 508114; changing to 832991. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832991, current: 508626; changing to 832992. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832992, current: 509138; changing to 832993. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832993, current: 509650; changing to 832994. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832994, current: 510162; changing to 832995. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832995, current: 510674; changing to 832996. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832996, current: 511186; changing to 832997. This may result in incorrect timestamps in the output file.
+
+[mp4 @ 0x55d2e73c7700] Non-monotonous DTS in output stream 0:0; previous: 832997, current: 511698; changing to 832998. This may result in incorrect timestamps in the output file.
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55d2e747b020] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 1403 fps=0.0 q=-1.0 size=    1024kB time=00:00:46.77 bitrate= 179.4kbits/s speed=92.5x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55d2e748cd20] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 2144 fps=2051 q=-1.0 size=    1792kB time=00:01:11.49 bitrate= 205.3kbits/s speed=68.4x    
+
+frame= 2344 fps=1504 q=-1.0 size=    4352kB time=00:01:18.17 bitrate= 456.1kbits/s speed=50.2x    
+
+frame= 2566 fps=1216 q=-1.0 size=    7680kB time=00:01:25.58 bitrate= 735.2kbits/s speed=40.5x    
+
+frame= 2651 fps=1153 q=-1.0 Lsize=    8970kB time=00:01:28.41 bitrate= 831.1kbits/s speed=38.4x    
+
+video:8940kB audio:0kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.334177%
+
+ffmpeg version 3.4.4-0ubuntu0.18.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+
+  built with gcc 7 (Ubuntu 7.3.0-16ubuntu3)
+
+  configuration: --prefix=/usr --extra-version=0ubuntu0.18.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-librsvg --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+
+  libavutil      55. 78.100 / 55. 78.100
+
+  libavcodec     57.107.100 / 57.107.100
+
+  libavformat    57. 83.100 / 57. 83.100
+
+  libavdevice    57. 10.100 / 57. 10.100
+
+  libavfilter     6.107.100 /  6.107.100
+
+  libavresample   3.  7.  0 /  3.  7.  0
+
+  libswscale      4.  8.100 /  4.  8.100
+
+  libswresample   2.  9.100 /  2.  9.100
+
+  libpostproc    54.  7.100 / 54.  7.100
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5557e1e98500] Auto-inserting h264_mp4toannexb bitstream filter
+
+[concat @ 0x5557e1e8d900] Could not find codec parameters for stream 2 (Unknown: none): unknown codec
+
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+
+Input #0, concat, from 'drive/leval/9_leval.txt':
+
+  Duration: N/A, start: 0.000000, bitrate: 7695 kb/s
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540, 7693 kb/s, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 25 tbn, 50 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+    Stream #0:2: Unknown: none
+
+Output #0, mp4, to 'playlists/leval/9_leval.mp4':
+
+  Metadata:
+
+    encoder         : Lavf57.83.100
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540 [SAR 1:1 DAR 16:9], q=2-31, 7693 kb/s, 25 fps, 25 tbr, 12800 tbn, 25 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+Stream mapping:
+
+  Stream #0:0 -> #0:0 (copy)
+
+  Stream #0:1 -> #0:1 (copy)
+
+Press [q] to stop, [?] for help
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5557e1e9a780] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  187 fps=0.0 q=-1.0 size=    6912kB time=00:00:07.44 bitrate=7610.6kbits/s speed=14.6x    
+
+frame=  240 fps=229 q=-1.0 size=    9984kB time=00:00:09.56 bitrate=8555.3kbits/s speed=9.11x    
+
+frame=  269 fps=173 q=-1.0 size=   12800kB time=00:00:10.72 bitrate=9781.5kbits/s speed=6.89x    
+
+frame=  313 fps=149 q=-1.0 size=   16896kB time=00:00:12.48 bitrate=11090.7kbits/s speed=5.95x    
+
+frame=  363 fps=139 q=-1.0 size=   21760kB time=00:00:14.48 bitrate=12310.6kbits/s speed=5.55x    
+
+frame=  387 fps=124 q=-1.0 size=   24064kB time=00:00:15.44 bitrate=12767.6kbits/s speed=4.94x    
+
+frame=  413 fps=114 q=-1.0 size=   26880kB time=00:00:16.48 bitrate=13361.7kbits/s speed=4.53x    
+
+frame=  431 fps=104 q=-1.0 size=   28672kB time=00:00:17.20 bitrate=13655.8kbits/s speed=4.15x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5557e202d560] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  437 fps= 91 q=-1.0 size=   31488kB time=00:00:17.44 bitrate=14790.7kbits/s speed=3.63x    
+
+frame=  526 fps= 99 q=-1.0 size=   34048kB time=00:00:21.00 bitrate=13281.9kbits/s speed=3.96x    
+
+frame=  598 fps=103 q=-1.0 size=   36608kB time=00:00:23.88 bitrate=12558.3kbits/s speed=4.12x    
+
+frame=  745 fps=118 q=-1.0 size=   41984kB time=00:00:29.76 bitrate=11556.9kbits/s speed=4.72x    
+
+frame=  836 fps=122 q=-1.0 size=   45568kB time=00:00:33.40 bitrate=11176.4kbits/s speed=4.87x    
+
+frame=  912 fps=123 q=-1.0 size=   48384kB time=00:00:36.44 bitrate=10877.1kbits/s speed=4.92x    
+
+frame=  995 fps=126 q=-1.0 size=   51456kB time=00:00:39.76 bitrate=10601.8kbits/s speed=5.02x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5557e202d560] Auto-inserting h264_mp4toannexb bitstream filter
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5557e29c6900] Auto-inserting h264_mp4toannexb bitstream filter
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5557e202d560] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 2412 fps=286 q=-1.0 size=   64512kB time=00:01:36.44 bitrate=5479.9kbits/s speed=11.4x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5557e1e9a780] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 2858 fps=319 q=-1.0 size=   76032kB time=00:01:54.28 bitrate=5450.2kbits/s speed=12.7x    
+
+frame= 2920 fps=307 q=-1.0 size=   78336kB time=00:01:56.76 bitrate=5496.1kbits/s speed=12.3x    
+
+frame= 2998 fps=299 q=-1.0 size=   81152kB time=00:01:59.88 bitrate=5545.5kbits/s speed=11.9x    
+
+frame= 3061 fps=290 q=-1.0 size=   83456kB time=00:02:02.40 bitrate=5585.6kbits/s speed=11.6x    
+
+frame= 3217 fps=291 q=-1.0 size=   89856kB time=00:02:08.64 bitrate=5722.2kbits/s speed=11.6x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5557e29c6900] Auto-inserting h264_mp4toannexb bitstream filter
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5557e202d560] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 3844 fps=330 q=-1.0 size=  115712kB time=00:02:33.72 bitrate=6166.5kbits/s speed=13.2x    
+
+frame= 3908 fps=322 q=-1.0 size=  117760kB time=00:02:36.38 bitrate=6168.5kbits/s speed=12.9x    
+
+frame= 3992 fps=314 q=-1.0 size=  120064kB time=00:02:39.64 bitrate=6161.1kbits/s speed=12.6x    
+
+frame= 4189 fps=322 q=-1.0 Lsize=  127104kB time=00:02:47.54 bitrate=6214.6kbits/s speed=12.9x    
+
+video:123756kB audio:3221kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.099864%
+
+ffmpeg version 3.4.4-0ubuntu0.18.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+
+  built with gcc 7 (Ubuntu 7.3.0-16ubuntu3)
+
+  configuration: --prefix=/usr --extra-version=0ubuntu0.18.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-librsvg --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+
+  libavutil      55. 78.100 / 55. 78.100
+
+  libavcodec     57.107.100 / 57.107.100
+
+  libavformat    57. 83.100 / 57. 83.100
+
+  libavdevice    57. 10.100 / 57. 10.100
+
+  libavfilter     6.107.100 /  6.107.100
+
+  libavresample   3.  7.  0 /  3.  7.  0
+
+  libswscale      4.  8.100 /  4.  8.100
+
+  libswresample   2.  9.100 /  2.  9.100
+
+  libpostproc    54.  7.100 / 54.  7.100
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56017ca52500] Auto-inserting h264_mp4toannexb bitstream filter
+
+[concat @ 0x56017ca47900] Could not find codec parameters for stream 2 (Unknown: none): unknown codec
+
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+
+Input #0, concat, from 'drive/leval/7_leval.txt':
+
+  Duration: N/A, start: 0.000000, bitrate: 7695 kb/s
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540, 7693 kb/s, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 25 tbn, 50 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+    Stream #0:2: Unknown: none
+
+Output #0, mp4, to 'playlists/leval/7_leval.mp4':
+
+  Metadata:
+
+    encoder         : Lavf57.83.100
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540 [SAR 1:1 DAR 16:9], q=2-31, 7693 kb/s, 25 fps, 25 tbr, 12800 tbn, 25 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+Stream mapping:
+
+  Stream #0:0 -> #0:0 (copy)
+
+  Stream #0:1 -> #0:1 (copy)
+
+Press [q] to stop, [?] for help
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56017ca54800] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  518 fps=0.0 q=-1.0 size=   17920kB time=00:00:20.68 bitrate=7098.7kbits/s speed=41.2x    
+
+frame=  574 fps=545 q=-1.0 size=   20224kB time=00:00:22.92 bitrate=7228.4kbits/s speed=21.8x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56017ca83a80] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  612 fps=279 q=-1.0 size=   22528kB time=00:00:24.44 bitrate=7551.1kbits/s speed=11.2x    
+
+frame=  797 fps=289 q=-1.0 size=   38400kB time=00:00:31.84 bitrate=9879.8kbits/s speed=11.6x    
+
+frame=  818 fps=251 q=-1.0 size=   40448kB time=00:00:32.68 bitrate=10139.2kbits/s speed=  10x    
+
+frame=  840 fps=222 q=-1.0 size=   42496kB time=00:00:33.56 bitrate=10373.3kbits/s speed=8.89x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56017ca83a80] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  862 fps=181 q=-1.0 size=   47104kB time=00:00:34.44 bitrate=11204.3kbits/s speed=7.21x    
+
+frame=  959 fps=181 q=-1.0 size=   49920kB time=00:00:38.32 bitrate=10671.8kbits/s speed=7.23x    
+
+frame= 1057 fps=182 q=-1.0 size=   52736kB time=00:00:42.24 bitrate=10227.6kbits/s speed=7.27x    
+
+frame= 1275 fps=201 q=-1.0 size=   60160kB time=00:00:50.96 bitrate=9670.9kbits/s speed=8.03x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56017ca83a80] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 1376 fps=201 q=-1.0 size=   61696kB time=00:00:55.00 bitrate=9189.3kbits/s speed=8.03x    
+
+frame= 1543 fps=209 q=-1.0 size=   63744kB time=00:01:01.68 bitrate=8466.1kbits/s speed=8.34x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56017ca83a80] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 1654 fps=207 q=-1.0 size=   65280kB time=00:01:06.12 bitrate=8087.9kbits/s speed=8.27x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56017ca83a80] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 2506 fps=295 q=-1.0 size=   86784kB time=00:01:40.20 bitrate=7095.2kbits/s speed=11.8x    
+
+frame= 2927 fps=325 q=-1.0 size=  102400kB time=00:01:57.04 bitrate=7167.3kbits/s speed=  13x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56017ca83a80] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 2950 fps=308 q=-1.0 size=  104192kB time=00:01:57.96 bitrate=7235.8kbits/s speed=12.3x    
+
+frame= 3061 fps=303 q=-1.0 size=  106240kB time=00:02:02.40 bitrate=7110.4kbits/s speed=12.1x    
+
+frame= 3150 fps=295 q=-1.0 size=  108544kB time=00:02:05.96 bitrate=7059.3kbits/s speed=11.8x    
+
+frame= 3675 fps=325 q=-1.0 size=  121344kB time=00:02:26.96 bitrate=6764.1kbits/s speed=  13x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56017ca83a80] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 3731 fps=316 q=-1.0 size=  123648kB time=00:02:29.26 bitrate=6786.1kbits/s speed=12.6x    
+
+frame= 3790 fps=307 q=-1.0 size=  125184kB time=00:02:31.56 bitrate=6766.3kbits/s speed=12.3x    
+
+frame= 3858 fps=300 q=-1.0 size=  127744kB time=00:02:34.61 bitrate=6768.1kbits/s speed=  12x    
+
+frame= 4045 fps=310 q=-1.0 Lsize=  134158kB time=00:02:41.78 bitrate=6793.0kbits/s speed=12.4x    
+
+video:130913kB audio:3122kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.091405%
+
+ffmpeg version 3.4.4-0ubuntu0.18.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+
+  built with gcc 7 (Ubuntu 7.3.0-16ubuntu3)
+
+  configuration: --prefix=/usr --extra-version=0ubuntu0.18.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-librsvg --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+
+  libavutil      55. 78.100 / 55. 78.100
+
+  libavcodec     57.107.100 / 57.107.100
+
+  libavformat    57. 83.100 / 57. 83.100
+
+  libavdevice    57. 10.100 / 57. 10.100
+
+  libavfilter     6.107.100 /  6.107.100
+
+  libavresample   3.  7.  0 /  3.  7.  0
+
+  libswscale      4.  8.100 /  4.  8.100
+
+  libswresample   2.  9.100 /  2.  9.100
+
+  libpostproc    54.  7.100 / 54.  7.100
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55c0f9f93540] Auto-inserting h264_mp4toannexb bitstream filter
+
+[concat @ 0x55c0f9f88900] Could not find codec parameters for stream 2 (Unknown: none): unknown codec
+
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+
+Input #0, concat, from 'drive/leval/6_leval.txt':
+
+  Duration: N/A, start: 0.000000, bitrate: 7695 kb/s
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540, 7693 kb/s, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 25 tbn, 50 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+    Stream #0:2: Unknown: none
+
+Output #0, mp4, to 'playlists/leval/6_leval.mp4':
+
+  Metadata:
+
+    encoder         : Lavf57.83.100
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540 [SAR 1:1 DAR 16:9], q=2-31, 7693 kb/s, 25 fps, 25 tbr, 12800 tbn, 25 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+Stream mapping:
+
+  Stream #0:0 -> #0:0 (copy)
+
+  Stream #0:1 -> #0:1 (copy)
+
+Press [q] to stop, [?] for help
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55c0f9f93540] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  456 fps=0.0 q=-1.0 size=   15360kB time=00:00:18.20 bitrate=6913.7kbits/s speed=34.6x    
+
+frame=  510 fps=488 q=-1.0 size=   17664kB time=00:00:20.36 bitrate=7107.2kbits/s speed=19.5x    
+
+frame=  574 fps=352 q=-1.0 size=   20224kB time=00:00:22.92 bitrate=7228.4kbits/s speed=14.1x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55c0f9f93540] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  612 fps=219 q=-1.0 size=   22528kB time=00:00:24.44 bitrate=7551.1kbits/s speed=8.75x    
+
+frame=  797 fps=239 q=-1.0 size=   38400kB time=00:00:31.84 bitrate=9879.8kbits/s speed=9.56x    
+
+frame=  818 fps=213 q=-1.0 size=   40448kB time=00:00:32.68 bitrate=10139.2kbits/s speed= 8.5x    
+
+frame=  840 fps=193 q=-1.0 size=   42496kB time=00:00:33.56 bitrate=10373.3kbits/s speed=7.71x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55c0f9f93540] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  862 fps=161 q=-1.0 size=   47104kB time=00:00:34.44 bitrate=11204.3kbits/s speed=6.44x    
+
+frame=  957 fps=164 q=-1.0 size=   49664kB time=00:00:38.24 bitrate=10639.3kbits/s speed=6.54x    
+
+frame= 1040 fps=164 q=-1.0 size=   52224kB time=00:00:41.56 bitrate=10294.0kbits/s speed=6.54x    
+
+frame= 1267 fps=185 q=-1.0 size=   59904kB time=00:00:50.64 bitrate=9690.6kbits/s speed=7.38x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55c0f9f93540] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 1376 fps=185 q=-1.0 size=   61696kB time=00:00:55.00 bitrate=9189.3kbits/s speed= 7.4x    
+
+frame= 1543 fps=194 q=-1.0 size=   63744kB time=00:01:01.68 bitrate=8466.1kbits/s speed=7.74x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55c0f9f93540] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 1654 fps=194 q=-1.0 size=   65280kB time=00:01:06.12 bitrate=8087.9kbits/s speed=7.74x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55c0f9f93540] Auto-inserting h264_mp4toannexb bitstream filter
+
+    Last message repeated 1 times
+
+frame= 2322 fps=253 q=-1.0 size=   79360kB time=00:01:32.84 bitrate=7002.6kbits/s speed=10.1x    
+
+frame= 2521 fps=260 q=-1.0 size=   87296kB time=00:01:40.80 bitrate=7094.5kbits/s speed=10.4x    
+
+frame= 2570 fps=252 q=-1.0 size=   89856kB time=00:01:42.76 bitrate=7163.3kbits/s speed=10.1x    
+
+frame= 2622 fps=245 q=-1.0 size=   92416kB time=00:01:44.84 bitrate=7221.2kbits/s speed=9.78x    
+
+frame= 2662 fps=237 q=-1.0 size=   94464kB time=00:01:46.44 bitrate=7270.3kbits/s speed=9.47x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55c0f9f93540] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 2947 fps=245 q=-1.0 size=  104704kB time=00:01:57.84 bitrate=7278.8kbits/s speed= 9.8x    
+
+frame= 3005 fps=240 q=-1.0 size=  105984kB time=00:02:00.16 bitrate=7225.5kbits/s speed=9.58x    
+
+frame= 3053 fps=233 q=-1.0 size=  107776kB time=00:02:02.08 bitrate=7232.1kbits/s speed=9.32x    
+
+frame= 3176 fps=232 q=-1.0 size=  112384kB time=00:02:07.00 bitrate=7249.2kbits/s speed=9.29x    
+
+frame= 3232 fps=228 q=-1.0 size=  114432kB time=00:02:09.24 bitrate=7253.4kbits/s speed=9.12x    
+
+frame= 3321 fps=231 q=-1.0 Lsize=  118904kB time=00:02:12.81 bitrate=7333.8kbits/s speed=9.26x    
+
+video:118287kB audio:516kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.084955%
+
+ffmpeg version 3.4.4-0ubuntu0.18.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+
+  built with gcc 7 (Ubuntu 7.3.0-16ubuntu3)
+
+  configuration: --prefix=/usr --extra-version=0ubuntu0.18.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-librsvg --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+
+  libavutil      55. 78.100 / 55. 78.100
+
+  libavcodec     57.107.100 / 57.107.100
+
+  libavformat    57. 83.100 / 57. 83.100
+
+  libavdevice    57. 10.100 / 57. 10.100
+
+  libavfilter     6.107.100 /  6.107.100
+
+  libavresample   3.  7.  0 /  3.  7.  0
+
+  libswscale      4.  8.100 /  4.  8.100
+
+  libswresample   2.  9.100 /  2.  9.100
+
+  libpostproc    54.  7.100 / 54.  7.100
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5643a9c6a560] Auto-inserting h264_mp4toannexb bitstream filter
+
+[concat @ 0x5643a9c5f900] Could not find codec parameters for stream 2 (Unknown: none): unknown codec
+
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+
+Input #0, concat, from 'drive/leval/1_leval.txt':
+
+  Duration: N/A, start: 0.000000, bitrate: 7695 kb/s
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540, 7693 kb/s, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 25 tbn, 50 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+    Stream #0:2: Unknown: none
+
+Output #0, mp4, to 'playlists/leval/1_leval.mp4':
+
+  Metadata:
+
+    encoder         : Lavf57.83.100
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540 [SAR 1:1 DAR 16:9], q=2-31, 7693 kb/s, 25 fps, 25 tbr, 12800 tbn, 25 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+Stream mapping:
+
+  Stream #0:0 -> #0:0 (copy)
+
+  Stream #0:1 -> #0:1 (copy)
+
+Press [q] to stop, [?] for help
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5643a9c6c7e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  187 fps=134 q=-1.0 size=    6912kB time=00:00:07.44 bitrate=7610.6kbits/s speed=5.33x    
+
+frame=  240 fps=124 q=-1.0 size=    9984kB time=00:00:09.56 bitrate=8555.3kbits/s speed=4.93x    
+
+frame=  269 fps=110 q=-1.0 size=   12800kB time=00:00:10.72 bitrate=9781.5kbits/s speed=4.39x    
+
+frame=  313 fps=105 q=-1.0 size=   16896kB time=00:00:12.48 bitrate=11090.7kbits/s speed=4.18x    
+
+frame=  364 fps=104 q=-1.0 size=   22016kB time=00:00:14.52 bitrate=12421.1kbits/s speed=4.15x    
+
+frame=  387 fps= 96 q=-1.0 size=   24064kB time=00:00:15.44 bitrate=12767.6kbits/s speed=3.84x    
+
+frame=  411 fps= 90 q=-1.0 size=   26624kB time=00:00:16.40 bitrate=13299.0kbits/s speed=3.61x    
+
+frame=  432 fps= 86 q=-1.0 size=   28672kB time=00:00:17.24 bitrate=13624.2kbits/s speed=3.42x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5643a9c6c7e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  437 fps= 77 q=-1.0 size=   31488kB time=00:00:17.44 bitrate=14790.7kbits/s speed=3.08x    
+
+frame=  532 fps= 86 q=-1.0 size=   34048kB time=00:00:21.24 bitrate=13131.9kbits/s speed=3.45x    
+
+frame=  615 fps= 92 q=-1.0 size=   36608kB time=00:00:24.56 bitrate=12210.6kbits/s speed=3.68x    
+
+frame=  842 fps=117 q=-1.0 size=   44288kB time=00:00:33.64 bitrate=10785.0kbits/s speed=4.69x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5643a9c6c7e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  951 fps=123 q=-1.0 size=   46080kB time=00:00:38.00 bitrate=9933.9kbits/s speed=4.91x    
+
+frame= 1118 fps=135 q=-1.0 size=   48128kB time=00:00:44.68 bitrate=8824.2kbits/s speed=5.39x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5643a9c6c7e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 1229 fps=138 q=-1.0 size=   49664kB time=00:00:49.12 bitrate=8282.7kbits/s speed=5.52x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5643a9c6c7e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 1817 fps=193 q=-1.0 size=   67840kB time=00:01:12.64 bitrate=7650.7kbits/s speed=7.73x    
+
+frame= 2397 fps=241 q=-1.0 size=   84224kB time=00:01:35.84 bitrate=7199.1kbits/s speed=9.64x    
+
+frame= 2453 fps=234 q=-1.0 size=   86016kB time=00:01:38.08 bitrate=7184.4kbits/s speed=9.35x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5643a9c6c7e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 2809 fps=255 q=-1.0 size=   97792kB time=00:01:52.32 bitrate=7132.4kbits/s speed=10.2x    
+
+frame= 2880 fps=249 q=-1.0 size=  100608kB time=00:01:55.16 bitrate=7156.8kbits/s speed=9.95x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5643a9c6c7e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 3157 fps=259 q=-1.0 size=  110848kB time=00:02:06.24 bitrate=7193.2kbits/s speed=10.4x    
+
+frame= 3196 fps=252 q=-1.0 size=  112128kB time=00:02:07.80 bitrate=7187.4kbits/s speed=10.1x    
+
+frame= 3243 fps=245 q=-1.0 size=  113920kB time=00:02:09.68 bitrate=7196.4kbits/s speed=9.81x    
+
+frame= 3286 fps=239 q=-1.0 size=  115200kB time=00:02:11.40 bitrate=7182.0kbits/s speed=9.57x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5643a9c6c7e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 3429 fps=240 q=-1.0 size=  120832kB time=00:02:17.12 bitrate=7218.9kbits/s speed=9.61x    
+
+frame= 3663 fps=248 q=-1.0 size=  128256kB time=00:02:26.48 bitrate=7172.8kbits/s speed=9.92x    
+
+frame= 3731 fps=251 q=-1.0 Lsize=  131260kB time=00:02:29.21 bitrate=7206.1kbits/s speed=  10x    
+
+video:127931kB audio:3216kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.086263%
+
+ffmpeg version 3.4.4-0ubuntu0.18.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+
+  built with gcc 7 (Ubuntu 7.3.0-16ubuntu3)
+
+  configuration: --prefix=/usr --extra-version=0ubuntu0.18.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-librsvg --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+
+  libavutil      55. 78.100 / 55. 78.100
+
+  libavcodec     57.107.100 / 57.107.100
+
+  libavformat    57. 83.100 / 57. 83.100
+
+  libavdevice    57. 10.100 / 57. 10.100
+
+  libavfilter     6.107.100 /  6.107.100
+
+  libavresample   3.  7.  0 /  3.  7.  0
+
+  libswscale      4.  8.100 /  4.  8.100
+
+  libswresample   2.  9.100 /  2.  9.100
+
+  libpostproc    54.  7.100 / 54.  7.100
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55f12a8687e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+[concat @ 0x55f12a85d900] Could not find codec parameters for stream 2 (Unknown: none): unknown codec
+
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+
+Input #0, concat, from 'drive/leval/0_leval.txt':
+
+  Duration: N/A, start: 0.000000, bitrate: 7695 kb/s
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540, 7693 kb/s, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 25 tbn, 50 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+    Stream #0:2: Unknown: none
+
+Output #0, mp4, to 'playlists/leval/0_leval.mp4':
+
+  Metadata:
+
+    encoder         : Lavf57.83.100
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540 [SAR 1:1 DAR 16:9], q=2-31, 7693 kb/s, 25 fps, 25 tbr, 12800 tbn, 25 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+Stream mapping:
+
+  Stream #0:0 -> #0:0 (copy)
+
+  Stream #0:1 -> #0:1 (copy)
+
+Press [q] to stop, [?] for help
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55f12b40df60] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  187 fps=0.0 q=-1.0 size=    6912kB time=00:00:07.44 bitrate=7610.6kbits/s speed=14.6x    
+
+frame=  456 fps=441 q=-1.0 size=   15360kB time=00:00:18.20 bitrate=6913.7kbits/s speed=17.6x    
+
+frame=  510 fps=328 q=-1.0 size=   17664kB time=00:00:20.36 bitrate=7107.2kbits/s speed=13.1x    
+
+frame=  574 fps=269 q=-1.0 size=   20224kB time=00:00:22.92 bitrate=7228.4kbits/s speed=10.7x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55f12a8696e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  612 fps=194 q=-1.0 size=   22528kB time=00:00:24.44 bitrate=7551.1kbits/s speed=7.74x    
+
+frame=  786 fps=214 q=-1.0 size=   37376kB time=00:00:31.40 bitrate=9751.1kbits/s speed=8.56x    
+
+frame=  809 fps=194 q=-1.0 size=   39424kB time=00:00:32.32 bitrate=9992.6kbits/s speed=7.73x    
+
+frame=  836 fps=177 q=-1.0 size=   42240kB time=00:00:33.40 bitrate=10360.2kbits/s speed=7.05x    
+
+frame=  857 fps=164 q=-1.0 size=   44288kB time=00:00:34.24 bitrate=10596.0kbits/s speed=6.54x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55f12a8696e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  862 fps=147 q=-1.0 size=   47104kB time=00:00:34.44 bitrate=11204.3kbits/s speed=5.87x    
+
+frame=  967 fps=151 q=-1.0 size=   50176kB time=00:00:38.64 bitrate=10637.7kbits/s speed=6.04x    
+
+frame= 1055 fps=153 q=-1.0 size=   53504kB time=00:00:42.16 bitrate=10396.2kbits/s speed=6.11x    
+
+frame= 1245 fps=168 q=-1.0 size=   60416kB time=00:00:49.76 bitrate=9946.3kbits/s speed=6.72x    
+
+frame= 1325 fps=167 q=-1.0 size=   63232kB time=00:00:52.96 bitrate=9780.9kbits/s speed=6.69x    
+
+frame= 1408 fps=167 q=-1.0 size=   66304kB time=00:00:56.28 bitrate=9651.1kbits/s speed=6.68x    
+
+frame= 1476 fps=165 q=-1.0 size=   69120kB time=00:00:59.00 bitrate=9597.1kbits/s speed= 6.6x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55f12a96bc60] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 1942 fps=206 q=-1.0 size=   78848kB time=00:01:17.64 bitrate=8319.5kbits/s speed=8.23x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55f12a8696e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55f12a8b90c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55f12a8696e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 3164 fps=318 q=-1.0 size=  112896kB time=00:02:06.52 bitrate=7309.9kbits/s speed=12.7x    
+
+frame= 3231 fps=309 q=-1.0 size=  115200kB time=00:02:09.20 bitrate=7304.3kbits/s speed=12.3x    
+
+frame= 3312 fps=302 q=-1.0 size=  118272kB time=00:02:12.44 bitrate=7315.6kbits/s speed=12.1x    
+
+frame= 3372 fps=294 q=-1.0 size=  120576kB time=00:02:14.84 bitrate=7325.4kbits/s speed=11.7x    
+
+frame= 3421 fps=285 q=-1.0 size=  122112kB time=00:02:16.80 bitrate=7312.4kbits/s speed=11.4x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55f12a8696e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 3863 fps=308 q=-1.0 size=  132352kB time=00:02:34.48 bitrate=7018.6kbits/s speed=12.3x    
+
+frame= 3933 fps=302 q=-1.0 size=  133632kB time=00:02:37.28 bitrate=6960.3kbits/s speed=12.1x    
+
+frame= 3988 fps=294 q=-1.0 size=  134400kB time=00:02:39.48 bitrate=6903.7kbits/s speed=11.8x    
+
+frame= 4114 fps=293 q=-1.0 size=  136704kB time=00:02:44.52 bitrate=6806.9kbits/s speed=11.7x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55f12a8696e0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 4363 fps=300 q=-1.0 size=  142336kB time=00:02:54.48 bitrate=6682.8kbits/s speed=  12x    
+
+frame= 4652 fps=309 q=-1.0 Lsize=  151860kB time=00:03:06.05 bitrate=6686.2kbits/s speed=12.4x    
+
+video:148746kB audio:2973kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.092672%
+
+ffmpeg version 3.4.4-0ubuntu0.18.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+
+  built with gcc 7 (Ubuntu 7.3.0-16ubuntu3)
+
+  configuration: --prefix=/usr --extra-version=0ubuntu0.18.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-librsvg --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+
+  libavutil      55. 78.100 / 55. 78.100
+
+  libavcodec     57.107.100 / 57.107.100
+
+  libavformat    57. 83.100 / 57. 83.100
+
+  libavdevice    57. 10.100 / 57. 10.100
+
+  libavfilter     6.107.100 /  6.107.100
+
+  libavresample   3.  7.  0 /  3.  7.  0
+
+  libswscale      4.  8.100 /  4.  8.100
+
+  libswresample   2.  9.100 /  2.  9.100
+
+  libpostproc    54.  7.100 / 54.  7.100
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55b90aee6840] Auto-inserting h264_mp4toannexb bitstream filter
+
+[concat @ 0x55b90aedb900] Could not find codec parameters for stream 2 (Unknown: none): unknown codec
+
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+
+Input #0, concat, from 'drive/leval/4_leval.txt':
+
+  Duration: N/A, start: 0.000000, bitrate: 7695 kb/s
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540, 7693 kb/s, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 25 tbn, 50 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+    Stream #0:2: Unknown: none
+
+Output #0, mp4, to 'playlists/leval/4_leval.mp4':
+
+  Metadata:
+
+    encoder         : Lavf57.83.100
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540 [SAR 1:1 DAR 16:9], q=2-31, 7693 kb/s, 25 fps, 25 tbr, 12800 tbn, 25 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+Stream mapping:
+
+  Stream #0:0 -> #0:0 (copy)
+
+  Stream #0:1 -> #0:1 (copy)
+
+Press [q] to stop, [?] for help
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55b90aee6840] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  187 fps=0.0 q=-1.0 size=    6912kB time=00:00:07.44 bitrate=7610.6kbits/s speed=9.15x    
+
+frame=  240 fps=177 q=-1.0 size=    9984kB time=00:00:09.56 bitrate=8555.3kbits/s speed=7.05x    
+
+frame=  269 fps=144 q=-1.0 size=   12800kB time=00:00:10.72 bitrate=9781.5kbits/s speed=5.76x    
+
+frame=  313 fps=130 q=-1.0 size=   16896kB time=00:00:12.48 bitrate=11090.7kbits/s speed=5.19x    
+
+frame=  364 fps=125 q=-1.0 size=   22016kB time=00:00:14.52 bitrate=12421.1kbits/s speed=4.97x    
+
+frame=  387 fps=113 q=-1.0 size=   24064kB time=00:00:15.44 bitrate=12767.6kbits/s speed= 4.5x    
+
+frame=  408 fps=103 q=-1.0 size=   26368kB time=00:00:16.28 bitrate=13268.2kbits/s speed= 4.1x    
+
+frame=  434 fps= 96 q=-1.0 size=   28928kB time=00:00:17.32 bitrate=13682.3kbits/s speed=3.84x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55b90aee6840] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  437 fps= 86 q=-1.0 size=   31488kB time=00:00:17.44 bitrate=14790.7kbits/s speed=3.43x    
+
+frame=  532 fps= 95 q=-1.0 size=   34048kB time=00:00:21.24 bitrate=13131.9kbits/s speed= 3.8x    
+
+frame=  607 fps=100 q=-1.0 size=   36352kB time=00:00:24.24 bitrate=12285.3kbits/s speed=3.98x    
+
+frame=  842 fps=128 q=-1.0 size=   44288kB time=00:00:33.64 bitrate=10785.0kbits/s speed= 5.1x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55b90aee6840] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  951 fps=133 q=-1.0 size=   46080kB time=00:00:38.00 bitrate=9933.9kbits/s speed=5.31x    
+
+frame= 1118 fps=145 q=-1.0 size=   48128kB time=00:00:44.68 bitrate=8824.2kbits/s speed= 5.8x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55b90aee6840] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 1287 fps=157 q=-1.0 size=   49664kB time=00:00:51.44 bitrate=7909.2kbits/s speed=6.26x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55b90b008240] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 2170 fps=249 q=-1.0 size=   54272kB time=00:01:26.76 bitrate=5124.4kbits/s speed=9.96x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55b90b008240] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 2752 fps=298 q=-1.0 size=   69376kB time=00:01:50.04 bitrate=5164.7kbits/s speed=11.9x    
+
+frame= 2801 fps=287 q=-1.0 size=   71168kB time=00:01:52.00 bitrate=5205.4kbits/s speed=11.5x    
+
+frame= 2871 fps=279 q=-1.0 size=   73984kB time=00:01:54.80 bitrate=5279.4kbits/s speed=11.2x    
+
+frame= 2929 fps=271 q=-1.0 size=   76032kB time=00:01:57.12 bitrate=5318.1kbits/s speed=10.8x    
+
+frame= 3050 fps=269 q=-1.0 size=   81152kB time=00:02:01.96 bitrate=5450.9kbits/s speed=10.8x    
+
+frame= 3356 fps=282 q=-1.0 size=   91904kB time=00:02:14.20 bitrate=5610.1kbits/s speed=11.3x    
+
+frame= 3407 fps=273 q=-1.0 size=   93696kB time=00:02:16.24 bitrate=5633.9kbits/s speed=10.9x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55b90b008240] Auto-inserting h264_mp4toannexb bitstream filter
+
+    Last message repeated 1 times
+
+frame= 4031 fps=311 q=-1.0 size=  116736kB time=00:02:41.20 bitrate=5932.4kbits/s speed=12.4x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x55b90b008240] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 4133 fps=305 q=-1.0 size=  121600kB time=00:02:45.28 bitrate=6027.0kbits/s speed=12.2x    
+
+frame= 4272 fps=304 q=-1.0 size=  125696kB time=00:02:50.84 bitrate=6027.3kbits/s speed=12.1x    
+
+frame= 4484 fps=308 q=-1.0 size=  133376kB time=00:02:59.32 bitrate=6093.1kbits/s speed=12.3x    
+
+frame= 4487 fps=307 q=-1.0 Lsize=  134785kB time=00:02:59.46 bitrate=6152.3kbits/s speed=12.3x    
+
+video:134120kB audio:529kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.100786%
+
+ffmpeg version 3.4.4-0ubuntu0.18.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+
+  built with gcc 7 (Ubuntu 7.3.0-16ubuntu3)
+
+  configuration: --prefix=/usr --extra-version=0ubuntu0.18.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-librsvg --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+
+  libavutil      55. 78.100 / 55. 78.100
+
+  libavcodec     57.107.100 / 57.107.100
+
+  libavformat    57. 83.100 / 57. 83.100
+
+  libavdevice    57. 10.100 / 57. 10.100
+
+  libavfilter     6.107.100 /  6.107.100
+
+  libavresample   3.  7.  0 /  3.  7.  0
+
+  libswscale      4.  8.100 /  4.  8.100
+
+  libswresample   2.  9.100 /  2.  9.100
+
+  libpostproc    54.  7.100 / 54.  7.100
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557d1e8b7ae0] Auto-inserting h264_mp4toannexb bitstream filter
+
+[concat @ 0x557d1e8ac900] Could not find codec parameters for stream 2 (Unknown: none): unknown codec
+
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+
+Input #0, concat, from 'drive/leval/2_leval.txt':
+
+  Duration: N/A, start: 0.000000, bitrate: 7695 kb/s
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540, 7693 kb/s, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 25 tbn, 50 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+    Stream #0:2: Unknown: none
+
+Output #0, mp4, to 'playlists/leval/2_leval.mp4':
+
+  Metadata:
+
+    encoder         : Lavf57.83.100
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540 [SAR 1:1 DAR 16:9], q=2-31, 7693 kb/s, 25 fps, 25 tbr, 12800 tbn, 25 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+Stream mapping:
+
+  Stream #0:0 -> #0:0 (copy)
+
+  Stream #0:1 -> #0:1 (copy)
+
+Press [q] to stop, [?] for help
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557d1e8b9d60] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  187 fps=136 q=-1.0 size=    6912kB time=00:00:07.44 bitrate=7610.6kbits/s speed= 5.4x    
+
+frame=  240 fps=125 q=-1.0 size=    9984kB time=00:00:09.56 bitrate=8555.3kbits/s speed=   5x    
+
+frame=  269 fps=111 q=-1.0 size=   12800kB time=00:00:10.72 bitrate=9781.5kbits/s speed=4.43x    
+
+frame=  313 fps=106 q=-1.0 size=   16896kB time=00:00:12.48 bitrate=11090.7kbits/s speed=4.21x    
+
+frame=  364 fps=105 q=-1.0 size=   22016kB time=00:00:14.52 bitrate=12421.1kbits/s speed=4.18x    
+
+frame=  387 fps= 97 q=-1.0 size=   24064kB time=00:00:15.44 bitrate=12767.6kbits/s speed=3.87x    
+
+frame=  411 fps= 91 q=-1.0 size=   26624kB time=00:00:16.40 bitrate=13299.0kbits/s speed=3.62x    
+
+frame=  434 fps= 86 q=-1.0 size=   28928kB time=00:00:17.32 bitrate=13682.3kbits/s speed=3.42x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557d1e8b9d60] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  437 fps= 78 q=-1.0 size=   31488kB time=00:00:17.44 bitrate=14790.7kbits/s speed=3.09x    
+
+frame=  532 fps= 87 q=-1.0 size=   34048kB time=00:00:21.24 bitrate=13131.9kbits/s speed=3.46x    
+
+frame=  614 fps= 92 q=-1.0 size=   36352kB time=00:00:24.52 bitrate=12145.0kbits/s speed=3.69x    
+
+frame=  842 fps=118 q=-1.0 size=   44288kB time=00:00:33.64 bitrate=10785.0kbits/s speed= 4.7x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557d1e8b9d60] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  951 fps=123 q=-1.0 size=   46080kB time=00:00:38.00 bitrate=9933.9kbits/s speed=4.92x    
+
+frame= 1118 fps=135 q=-1.0 size=   48128kB time=00:00:44.68 bitrate=8824.2kbits/s speed=5.41x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557d1e8b9d60] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 1287 fps=147 q=-1.0 size=   49664kB time=00:00:51.44 bitrate=7909.2kbits/s speed=5.86x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557d1e8b9d60] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 2220 fps=239 q=-1.0 size=   55552kB time=00:01:28.76 bitrate=5127.1kbits/s speed=9.57x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557d1e8b9d60] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 3164 fps=324 q=-1.0 size=   80128kB time=00:02:06.52 bitrate=5188.2kbits/s speed=12.9x    
+
+frame= 3210 fps=311 q=-1.0 size=   81664kB time=00:02:08.36 bitrate=5211.8kbits/s speed=12.4x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557d1f52e580] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 3437 fps=318 q=-1.0 size=   87808kB time=00:02:17.44 bitrate=5233.7kbits/s speed=12.7x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557d1e8b9d60] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 3592 fps=317 q=-1.0 size=   92928kB time=00:02:23.64 bitrate=5299.8kbits/s speed=12.7x    
+
+frame= 3685 fps=312 q=-1.0 size=   95488kB time=00:02:27.36 bitrate=5308.3kbits/s speed=12.5x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557d1e8b9d60] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 3961 fps=309 q=-1.0 size=  106752kB time=00:02:38.40 bitrate=5520.9kbits/s speed=12.4x    
+
+frame= 4019 fps=302 q=-1.0 size=  108544kB time=00:02:40.72 bitrate=5532.6kbits/s speed=12.1x    
+
+frame= 4089 fps=296 q=-1.0 size=  112128kB time=00:02:43.52 bitrate=5617.4kbits/s speed=11.8x    
+
+frame= 4194 fps=293 q=-1.0 size=  117248kB time=00:02:47.72 bitrate=5726.8kbits/s speed=11.7x    
+
+frame= 4372 fps=292 q=-1.0 size=  125952kB time=00:02:54.84 bitrate=5901.4kbits/s speed=11.7x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557d1e8b9d60] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 4821 fps=314 q=-1.0 Lsize=  143365kB time=00:03:12.81 bitrate=6090.9kbits/s speed=12.6x    
+
+video:139991kB audio:3228kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.101716%
+
+ffmpeg version 3.4.4-0ubuntu0.18.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+
+  built with gcc 7 (Ubuntu 7.3.0-16ubuntu3)
+
+  configuration: --prefix=/usr --extra-version=0ubuntu0.18.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-librsvg --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+
+  libavutil      55. 78.100 / 55. 78.100
+
+  libavcodec     57.107.100 / 57.107.100
+
+  libavformat    57. 83.100 / 57. 83.100
+
+  libavdevice    57. 10.100 / 57. 10.100
+
+  libavfilter     6.107.100 /  6.107.100
+
+  libavresample   3.  7.  0 /  3.  7.  0
+
+  libswscale      4.  8.100 /  4.  8.100
+
+  libswresample   2.  9.100 /  2.  9.100
+
+  libpostproc    54.  7.100 / 54.  7.100
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557e2364c620] Auto-inserting h264_mp4toannexb bitstream filter
+
+[concat @ 0x557e23641900] Could not find codec parameters for stream 2 (Unknown: none): unknown codec
+
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+
+Input #0, concat, from 'drive/leval/8_leval.txt':
+
+  Duration: N/A, start: 0.000000, bitrate: 7695 kb/s
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540, 7693 kb/s, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 25 tbn, 50 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+    Stream #0:2: Unknown: none
+
+Output #0, mp4, to 'playlists/leval/8_leval.mp4':
+
+  Metadata:
+
+    encoder         : Lavf57.83.100
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540 [SAR 1:1 DAR 16:9], q=2-31, 7693 kb/s, 25 fps, 25 tbr, 12800 tbn, 25 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+Stream mapping:
+
+  Stream #0:0 -> #0:0 (copy)
+
+  Stream #0:1 -> #0:1 (copy)
+
+Press [q] to stop, [?] for help
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557e23746000] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  518 fps=0.0 q=-1.0 size=   17920kB time=00:00:20.68 bitrate=7098.7kbits/s speed=40.5x    
+
+frame=  574 fps=540 q=-1.0 size=   20224kB time=00:00:22.92 bitrate=7228.4kbits/s speed=21.6x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557e23746000] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  612 fps=280 q=-1.0 size=   22528kB time=00:00:24.44 bitrate=7551.1kbits/s speed=11.2x    
+
+frame=  793 fps=294 q=-1.0 size=   37888kB time=00:00:31.68 bitrate=9797.3kbits/s speed=11.7x    
+
+frame=  817 fps=253 q=-1.0 size=   40448kB time=00:00:32.64 bitrate=10151.6kbits/s speed=10.1x    
+
+frame=  840 fps=222 q=-1.0 size=   42496kB time=00:00:33.56 bitrate=10373.3kbits/s speed=8.86x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557e23746000] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  862 fps=180 q=-1.0 size=   47104kB time=00:00:34.44 bitrate=11204.3kbits/s speed=7.18x    
+
+frame=  967 fps=182 q=-1.0 size=   50176kB time=00:00:38.64 bitrate=10637.7kbits/s speed=7.26x    
+
+frame= 1044 fps=179 q=-1.0 size=   53248kB time=00:00:41.72 bitrate=10455.6kbits/s speed=7.15x    
+
+frame= 1246 fps=196 q=-1.0 size=   60416kB time=00:00:49.80 bitrate=9938.3kbits/s speed=7.84x    
+
+frame= 1329 fps=193 q=-1.0 size=   63488kB time=00:00:53.12 bitrate=9790.9kbits/s speed=7.73x    
+
+frame= 1412 fps=191 q=-1.0 size=   66560kB time=00:00:56.44 bitrate=9660.9kbits/s speed=7.63x    
+
+frame= 1484 fps=188 q=-1.0 size=   69376kB time=00:00:59.32 bitrate=9580.7kbits/s speed=7.51x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557e23746000] Auto-inserting h264_mp4toannexb bitstream filter
+
+    Last message repeated 1 times
+
+frame= 1961 fps=233 q=-1.0 size=   79360kB time=00:01:18.40 bitrate=8292.3kbits/s speed=9.31x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557e2364d4c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 2628 fps=294 q=-1.0 size=   88576kB time=00:01:45.08 bitrate=6905.4kbits/s speed=11.8x    
+
+frame= 2703 fps=285 q=-1.0 size=   90368kB time=00:01:48.08 bitrate=6849.5kbits/s speed=11.4x    
+
+frame= 2802 fps=280 q=-1.0 size=   92672kB time=00:01:52.04 bitrate=6775.9kbits/s speed=11.2x    
+
+frame= 2874 fps=272 q=-1.0 size=   94464kB time=00:01:54.92 bitrate=6733.8kbits/s speed=10.9x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557e2364d4c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 2987 fps=267 q=-1.0 size=   98048kB time=00:01:59.44 bitrate=6724.8kbits/s speed=10.7x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557e2364e840] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 3356 fps=281 q=-1.0 size=  111872kB time=00:02:14.20 bitrate=6829.0kbits/s speed=11.2x    
+
+frame= 3414 fps=274 q=-1.0 size=  113664kB time=00:02:16.52 bitrate=6820.5kbits/s speed=  11x    
+
+frame= 3470 fps=268 q=-1.0 size=  116480kB time=00:02:18.76 bitrate=6876.7kbits/s speed=10.7x    
+
+frame= 3588 fps=266 q=-1.0 size=  122112kB time=00:02:23.48 bitrate=6972.0kbits/s speed=10.7x    
+
+frame= 3765 fps=269 q=-1.0 size=  131072kB time=00:02:30.56 bitrate=7131.7kbits/s speed=10.8x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x557e23746000] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 4153 fps=287 q=-1.0 size=  145920kB time=00:02:46.08 bitrate=7197.6kbits/s speed=11.5x    
+
+frame= 4203 fps=290 q=-1.0 Lsize=  148176kB time=00:02:48.10 bitrate=7220.7kbits/s speed=11.6x    
+
+video:145178kB audio:2870kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.085954%
+
+ffmpeg version 3.4.4-0ubuntu0.18.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+
+  built with gcc 7 (Ubuntu 7.3.0-16ubuntu3)
+
+  configuration: --prefix=/usr --extra-version=0ubuntu0.18.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-librsvg --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+
+  libavutil      55. 78.100 / 55. 78.100
+
+  libavcodec     57.107.100 / 57.107.100
+
+  libavformat    57. 83.100 / 57. 83.100
+
+  libavdevice    57. 10.100 / 57. 10.100
+
+  libavfilter     6.107.100 /  6.107.100
+
+  libavresample   3.  7.  0 /  3.  7.  0
+
+  libswscale      4.  8.100 /  4.  8.100
+
+  libswresample   2.  9.100 /  2.  9.100
+
+  libpostproc    54.  7.100 / 54.  7.100
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56479e6297c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+[concat @ 0x56479e61e900] Could not find codec parameters for stream 2 (Unknown: none): unknown codec
+
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+
+Input #0, concat, from 'drive/leval/5_leval.txt':
+
+  Duration: N/A, start: 0.000000, bitrate: 7695 kb/s
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540, 7693 kb/s, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 25 tbn, 50 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+    Stream #0:2: Unknown: none
+
+Output #0, mp4, to 'playlists/leval/5_leval.mp4':
+
+  Metadata:
+
+    encoder         : Lavf57.83.100
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540 [SAR 1:1 DAR 16:9], q=2-31, 7693 kb/s, 25 fps, 25 tbr, 12800 tbn, 25 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+Stream mapping:
+
+  Stream #0:0 -> #0:0 (copy)
+
+  Stream #0:1 -> #0:1 (copy)
+
+Press [q] to stop, [?] for help
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56479e62b8c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  416 fps=0.0 q=-1.0 size=   13824kB time=00:00:16.60 bitrate=6822.1kbits/s speed=33.2x    
+
+frame=  518 fps=510 q=-1.0 size=   17920kB time=00:00:20.68 bitrate=7098.7kbits/s speed=20.4x    
+
+frame=  574 fps=366 q=-1.0 size=   20224kB time=00:00:22.92 bitrate=7228.4kbits/s speed=14.6x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56479e62b8c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  612 fps=223 q=-1.0 size=   22528kB time=00:00:24.44 bitrate=7551.1kbits/s speed=8.92x    
+
+frame=  797 fps=244 q=-1.0 size=   38400kB time=00:00:31.84 bitrate=9879.8kbits/s speed=9.74x    
+
+frame=  818 fps=217 q=-1.0 size=   40448kB time=00:00:32.68 bitrate=10139.2kbits/s speed=8.66x    
+
+frame=  840 fps=196 q=-1.0 size=   42496kB time=00:00:33.56 bitrate=10373.3kbits/s speed=7.82x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56479e62b8c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  862 fps=163 q=-1.0 size=   47104kB time=00:00:34.44 bitrate=11204.3kbits/s speed= 6.5x    
+
+frame=  967 fps=166 q=-1.0 size=   50176kB time=00:00:38.64 bitrate=10637.7kbits/s speed=6.63x    
+
+frame= 1047 fps=166 q=-1.0 size=   53248kB time=00:00:41.84 bitrate=10425.6kbits/s speed=6.62x    
+
+frame= 1245 fps=182 q=-1.0 size=   60416kB time=00:00:49.76 bitrate=9946.3kbits/s speed=7.28x    
+
+frame= 1325 fps=181 q=-1.0 size=   63232kB time=00:00:52.96 bitrate=9780.9kbits/s speed=7.22x    
+
+frame= 1408 fps=179 q=-1.0 size=   66304kB time=00:00:56.28 bitrate=9651.1kbits/s speed=7.17x    
+
+frame= 1476 fps=176 q=-1.0 size=   69120kB time=00:00:59.00 bitrate=9597.1kbits/s speed=7.05x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56479e62b8c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 1830 fps=206 q=-1.0 size=   77312kB time=00:01:13.16 bitrate=8656.9kbits/s speed=8.25x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56479e62b8c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+    Last message repeated 2 times
+
+frame= 3355 fps=357 q=-1.0 size=  109824kB time=00:02:14.16 bitrate=6706.0kbits/s speed=14.3x    
+
+frame= 3505 fps=354 q=-1.0 size=  114432kB time=00:02:20.16 bitrate=6688.3kbits/s speed=14.1x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56479e62b8c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 3667 fps=352 q=-1.0 size=  117760kB time=00:02:26.64 bitrate=6578.6kbits/s speed=14.1x    
+
+frame= 4126 fps=378 q=-1.0 size=  126976kB time=00:02:45.00 bitrate=6304.2kbits/s speed=15.1x    
+
+frame= 4193 fps=367 q=-1.0 size=  128768kB time=00:02:47.68 bitrate=6291.0kbits/s speed=14.7x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56479e62b8c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 4569 fps=382 q=-1.0 size=  135680kB time=00:03:02.72 bitrate=6083.0kbits/s speed=15.3x    
+
+frame= 4639 fps=372 q=-1.0 size=  136960kB time=00:03:05.52 bitrate=6047.7kbits/s speed=14.9x    
+
+frame= 4694 fps=362 q=-1.0 size=  137728kB time=00:03:07.72 bitrate=6010.4kbits/s speed=14.5x    
+
+frame= 4794 fps=356 q=-1.0 size=  139520kB time=00:03:11.72 bitrate=5961.5kbits/s speed=14.2x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x56479e62b8c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 5000 fps=353 q=-1.0 size=  143360kB time=00:03:19.96 bitrate=5873.2kbits/s speed=14.1x    
+
+frame= 5220 fps=356 q=-1.0 size=  153088kB time=00:03:28.76 bitrate=6007.4kbits/s speed=14.2x    
+
+frame= 5374 fps=354 q=-1.0 size=  160768kB time=00:03:34.92 bitrate=6127.9kbits/s speed=14.2x    
+
+frame= 5468 fps=349 q=-1.0 size=  165632kB time=00:03:38.68 bitrate=6204.8kbits/s speed=  14x    
+
+frame= 5548 fps=345 q=-1.0 Lsize=  170819kB time=00:03:41.91 bitrate=6305.8kbits/s speed=13.8x    
+
+video:170365kB audio:286kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.098078%
+
+ffmpeg version 3.4.4-0ubuntu0.18.04.1 Copyright (c) 2000-2018 the FFmpeg developers
+
+  built with gcc 7 (Ubuntu 7.3.0-16ubuntu3)
+
+  configuration: --prefix=/usr --extra-version=0ubuntu0.18.04.1 --toolchain=hardened --libdir=/usr/lib/x86_64-linux-gnu --incdir=/usr/include/x86_64-linux-gnu --enable-gpl --disable-stripping --enable-avresample --enable-avisynth --enable-gnutls --enable-ladspa --enable-libass --enable-libbluray --enable-libbs2b --enable-libcaca --enable-libcdio --enable-libflite --enable-libfontconfig --enable-libfreetype --enable-libfribidi --enable-libgme --enable-libgsm --enable-libmp3lame --enable-libmysofa --enable-libopenjpeg --enable-libopenmpt --enable-libopus --enable-libpulse --enable-librubberband --enable-librsvg --enable-libshine --enable-libsnappy --enable-libsoxr --enable-libspeex --enable-libssh --enable-libtheora --enable-libtwolame --enable-libvorbis --enable-libvpx --enable-libwavpack --enable-libwebp --enable-libx265 --enable-libxml2 --enable-libxvid --enable-libzmq --enable-libzvbi --enable-omx --enable-openal --enable-opengl --enable-sdl2 --enable-libdc1394 --enable-libdrm --enable-libiec61883 --enable-chromaprint --enable-frei0r --enable-libopencv --enable-libx264 --enable-shared
+
+  libavutil      55. 78.100 / 55. 78.100
+
+  libavcodec     57.107.100 / 57.107.100
+
+  libavformat    57. 83.100 / 57. 83.100
+
+  libavdevice    57. 10.100 / 57. 10.100
+
+  libavfilter     6.107.100 /  6.107.100
+
+  libavresample   3.  7.  0 /  3.  7.  0
+
+  libswscale      4.  8.100 /  4.  8.100
+
+  libswresample   2.  9.100 /  2.  9.100
+
+  libpostproc    54.  7.100 / 54.  7.100
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5579528d57c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+[concat @ 0x5579528ca900] Could not find codec parameters for stream 2 (Unknown: none): unknown codec
+
+Consider increasing the value for the 'analyzeduration' and 'probesize' options
+
+Input #0, concat, from 'drive/leval/3_leval.txt':
+
+  Duration: N/A, start: 0.000000, bitrate: 7695 kb/s
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540, 7693 kb/s, SAR 1:1 DAR 16:9, 25 fps, 25 tbr, 25 tbn, 50 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+    Stream #0:2: Unknown: none
+
+Output #0, mp4, to 'playlists/leval/3_leval.mp4':
+
+  Metadata:
+
+    encoder         : Lavf57.83.100
+
+    Stream #0:0(eng): Video: h264 (Main) (avc1 / 0x31637661), yuv420p(tv, bt709), 960x540 [SAR 1:1 DAR 16:9], q=2-31, 7693 kb/s, 25 fps, 25 tbr, 12800 tbn, 25 tbc
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      encoder         : H.264
+
+      timecode        : 00:00:00:00
+
+    Stream #0:1(eng): Audio: aac (LC) (mp4a / 0x6134706D), 48000 Hz, stereo, fltp, 2 kb/s
+
+    Metadata:
+
+      creation_time   : 2014-09-01T22:16:12.000000Z
+
+      handler_name    : Apple Alias Data Handler
+
+      timecode        : 00:00:00:00
+
+Stream mapping:
+
+  Stream #0:0 -> #0:0 (copy)
+
+  Stream #0:1 -> #0:1 (copy)
+
+Press [q] to stop, [?] for help
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5579528d78c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  187 fps=0.0 q=-1.0 size=    6912kB time=00:00:07.44 bitrate=7610.6kbits/s speed=12.7x    
+
+frame=  457 fps=420 q=-1.0 size=   15360kB time=00:00:18.24 bitrate=6898.5kbits/s speed=16.8x    
+
+frame=  510 fps=318 q=-1.0 size=   17664kB time=00:00:20.36 bitrate=7107.2kbits/s speed=12.7x    
+
+frame=  574 fps=263 q=-1.0 size=   20224kB time=00:00:22.92 bitrate=7228.4kbits/s speed=10.5x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5579528d78c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  612 fps=177 q=-1.0 size=   22528kB time=00:00:24.44 bitrate=7551.1kbits/s speed=7.05x    
+
+frame=  805 fps=200 q=-1.0 size=   39168kB time=00:00:32.16 bitrate=9977.1kbits/s speed=   8x    
+
+frame=  826 fps=183 q=-1.0 size=   41216kB time=00:00:33.00 bitrate=10231.5kbits/s speed= 7.3x    
+
+frame=  848 fps=168 q=-1.0 size=   43520kB time=00:00:33.88 bitrate=10522.9kbits/s speed= 6.7x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5579528d78c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame=  862 fps=146 q=-1.0 size=   47104kB time=00:00:34.44 bitrate=11204.3kbits/s speed=5.82x    
+
+frame=  967 fps=150 q=-1.0 size=   50176kB time=00:00:38.64 bitrate=10637.7kbits/s speed=   6x    
+
+frame= 1052 fps=151 q=-1.0 size=   53504kB time=00:00:42.04 bitrate=10425.9kbits/s speed=6.05x    
+
+frame= 1245 fps=167 q=-1.0 size=   60416kB time=00:00:49.76 bitrate=9946.3kbits/s speed=6.67x    
+
+frame= 1325 fps=166 q=-1.0 size=   63232kB time=00:00:52.96 bitrate=9780.9kbits/s speed=6.65x    
+
+frame= 1408 fps=166 q=-1.0 size=   66304kB time=00:00:56.28 bitrate=9651.1kbits/s speed=6.65x    
+
+frame= 1476 fps=164 q=-1.0 size=   69120kB time=00:00:59.00 bitrate=9597.1kbits/s speed=6.57x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5579528d78c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 1957 fps=206 q=-1.0 size=   78848kB time=00:01:18.24 bitrate=8255.7kbits/s speed=8.25x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5579528d78c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+    Last message repeated 2 times
+
+frame= 3313 fps=332 q=-1.0 size=  112896kB time=00:02:12.48 bitrate=6981.0kbits/s speed=13.3x    
+
+frame= 3393 fps=323 q=-1.0 size=  114432kB time=00:02:15.68 bitrate=6909.1kbits/s speed=12.9x    
+
+frame= 3490 fps=317 q=-1.0 size=  116736kB time=00:02:19.56 bitrate=6852.3kbits/s speed=12.7x    
+
+frame= 3575 fps=310 q=-1.0 size=  118784kB time=00:02:22.96 bitrate=6806.6kbits/s speed=12.4x    
+
+frame= 3642 fps=302 q=-1.0 size=  120576kB time=00:02:25.64 bitrate=6782.2kbits/s speed=12.1x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5579528d78c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+    Last message repeated 1 times
+
+frame= 4068 fps=309 q=-1.0 size=  136704kB time=00:02:42.68 bitrate=6883.9kbits/s speed=12.4x    
+
+frame= 4132 fps=302 q=-1.0 size=  138752kB time=00:02:45.24 bitrate=6878.8kbits/s speed=12.1x    
+
+frame= 4287 fps=302 q=-1.0 size=  146176kB time=00:02:51.44 bitrate=6984.8kbits/s speed=12.1x    
+
+frame= 4327 fps=294 q=-1.0 size=  148224kB time=00:02:53.04 bitrate=7017.2kbits/s speed=11.7x    
+
+[mov,mp4,m4a,3gp,3g2,mj2 @ 0x5579528d78c0] Auto-inserting h264_mp4toannexb bitstream filter
+
+frame= 4634 fps=304 q=-1.0 size=  163584kB time=00:03:05.32 bitrate=7231.2kbits/s speed=12.2x    
+
+frame= 4812 fps=305 q=-1.0 size=  172544kB time=00:03:12.44 bitrate=7345.0kbits/s speed=12.2x    
+
+frame= 4902 fps=302 q=-1.0 size=  177152kB time=00:03:16.04 bitrate=7402.7kbits/s speed=12.1x    
+
+frame= 4991 fps=299 q=-1.0 Lsize=  182817kB time=00:03:19.63 bitrate=7501.9kbits/s speed=11.9x    
+
+video:182386kB audio:280kB subtitle:0kB other streams:0kB global headers:0kB muxing overhead: 0.082528%
+
+
