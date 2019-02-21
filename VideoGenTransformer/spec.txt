@@ -4,7 +4,5 @@
 file 'videos/count.mp4'
 file 'videos/profanity.mp4'
 file 'videos/alien.mp4'
-file 'videos/music.mp4'
 file 'videos/uhhh.mp4'
-file 'videos/plankton.mp4'
 

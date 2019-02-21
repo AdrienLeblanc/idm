@@ -1,5 +1,3 @@
-import java.util.ArrayList;
-
 import org.eclipse.emf.common.util.URI;
 import org.junit.Assert;
 import org.junit.Test;
@@ -7,7 +5,6 @@ import org.junit.Test;
 import fr.istic.videoGen.AlternativesMedia;
 import fr.istic.videoGen.MandatoryMedia;
 import fr.istic.videoGen.Media;
-import fr.istic.videoGen.MediaDescription;
 import fr.istic.videoGen.OptionalMedia;
 import fr.istic.videoGen.VideoGeneratorModel;
 

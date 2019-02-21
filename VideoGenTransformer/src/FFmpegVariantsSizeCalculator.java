@@ -20,7 +20,7 @@ public class FFmpegVariantsSizeCalculator {
 	ArrayList<Integer> variantsRealSizesGif = new ArrayList<>();
 
 	public static void main(String[] args) {
-		String input = "data/data.videogen";
+		String input = "videogen/data.videogen";
 		
 		VideoGeneratorModel videoGen = new VideoGenHelper()
 				.loadVideoGenerator(URI.createURI(input));

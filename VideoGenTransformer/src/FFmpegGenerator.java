@@ -1,10 +1,17 @@
-import java.util.LinkedList;
 import java.util.Random;
 
 import org.eclipse.emf.common.util.EList;
 import org.eclipse.emf.common.util.URI;
 
-import fr.istic.videoGen.*;
+import fr.istic.videoGen.AlternativesMedia;
+import fr.istic.videoGen.ImageDescription;
+import fr.istic.videoGen.MandatoryMedia;
+import fr.istic.videoGen.Media;
+import fr.istic.videoGen.MediaDescription;
+import fr.istic.videoGen.OptionalMedia;
+import fr.istic.videoGen.VideoDescription;
+import fr.istic.videoGen.VideoGenInformation;
+import fr.istic.videoGen.VideoGeneratorModel;
 
 /**
  * Classe de génération de variante de playlist FFmpeg
@@ -17,7 +24,7 @@ public class FFmpegGenerator {
 	public StringBuilder builder = new StringBuilder();
 
 	public static void main(String[] args) {
-		String input = "data/data.videogen";
+		String input = "videogen/data.videogen";
 		String output = "data.txt";
 
 		VideoGeneratorModel videoGen = new VideoGenHelper()
@@ -72,6 +79,7 @@ public class FFmpegGenerator {
 	
 	private void compile(MandatoryMedia mandatory) {
 		builder.append("file '" + mandatory.getDescription().getLocation() + "'\n");
+		
 	}
 	
 	private void compile(OptionalMedia optional) {

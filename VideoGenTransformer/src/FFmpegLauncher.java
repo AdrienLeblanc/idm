@@ -1,6 +1,3 @@
-import java.io.IOException;
-import java.util.UUID;
-
 import org.eclipse.emf.common.util.URI;
 
 import fr.istic.videoGen.VideoGeneratorModel;
@@ -31,7 +28,7 @@ public class FFmpegLauncher {
 	
 	public static void generateAndReadPlayListVideo(String filename) {
 		VideoGeneratorModel videoGen = new VideoGenHelper()
-				.loadVideoGenerator(URI.createURI("data/" + filename + ".videogen"));
+				.loadVideoGenerator(URI.createURI("videogen/" + filename + ".videogen"));
 		FFmpegGenerator ffmpegGen = new FFmpegGenerator(videoGen);
 		Utils.createFile(filename + ".txt", ffmpegGen.toString());
 		Utils.exec("ffmpeg -y -f concat -i " + filename + ".txt -c copy playlists/" + filename + "_playlist.mp4");

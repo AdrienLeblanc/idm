@@ -1,13 +1,12 @@
-import java.io.File;
-import java.util.ArrayList;
-import java.util.List;
-import java.util.stream.Collectors;
-import java.util.stream.Stream;
-
 import org.eclipse.emf.common.util.EList;
 import org.eclipse.emf.common.util.URI;
 
-import fr.istic.videoGen.*;
+import fr.istic.videoGen.AlternativesMedia;
+import fr.istic.videoGen.MandatoryMedia;
+import fr.istic.videoGen.Media;
+import fr.istic.videoGen.MediaDescription;
+import fr.istic.videoGen.OptionalMedia;
+import fr.istic.videoGen.VideoGeneratorModel;
 
 /**
  * Calcule la variante avec la plus longue durée
@@ -17,21 +16,16 @@ import fr.istic.videoGen.*;
  */
 public class FFmpegDuration {
 
-	public int duration;
+	public double duration;
 	
 	public static void main(String[] args) {
 
-		String input = "data/data.videogen";
-		String output = "data/datavariants.videogen";
+		String input = "videogen/data.videogen";
 		
 		VideoGeneratorModel videoGen = new VideoGenHelper()
 				.loadVideoGenerator(URI.createURI(input));
-		FFmpegDuration variability = new FFmpegDuration(videoGen);
-	}
-	
-	public String toString() {
-		String output = "";
-		return output;
+		FFmpegDuration ffmpegDuration = new FFmpegDuration(videoGen);
+		System.out.println(ffmpegDuration.duration + " secondes");
 	}
 
 	public FFmpegDuration(VideoGeneratorModel videoGen) {
@@ -68,9 +62,9 @@ public class FFmpegDuration {
 	}
 	
 	private void duration(AlternativesMedia alternatives) {
-		int best = 0;
+		double best = 0;
 		for (MediaDescription description : alternatives.getMedias()) {
-			int current = seekDuration(description.getLocation());
+			double current = seekDuration(description.getLocation());
 			if (current > best) {
 				best = current;
 			}
@@ -78,7 +72,13 @@ public class FFmpegDuration {
 		duration += best;
 	}
 	
-	private int seekDuration(String path) {
-		return Integer.parseInt(Utils.exec(path));
+	private double seekDuration(String path) {
+		String cmd = "mediainfo --Inform=\"Video;%Duration%\" " + path;
+		String result = Utils.exec(cmd);
+		String[] split = result.split("VideoID");
+		String firstPart = split[0];
+		String[] p = firstPart.split(":");
+		String time = p[p.length-1].trim();
+		return Double.parseDouble(time) / 1000.0;
 	}
 }

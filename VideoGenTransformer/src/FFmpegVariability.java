@@ -22,13 +22,12 @@ public class FFmpegVariability {
 
 	public static void main(String[] args) {
 
-		String input = "data/data.videogen";
-		String output = "data/datavariants.videogen";
+		String input = "videogen/data.videogen";
 		
 		VideoGeneratorModel videoGen = new VideoGenHelper()
 				.loadVideoGenerator(URI.createURI(input));
 		FFmpegVariability variability = new FFmpegVariability(videoGen);
-		Utils.createFile(output, variability.toString());
+		System.out.println(variability.toString());
 	}
 	
 	public String toString() {
